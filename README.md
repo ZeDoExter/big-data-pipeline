@@ -5,8 +5,31 @@ Predicts wave height and wind speed 3-6 hours ahead for NDBC ocean buoys.
 ## Pipeline Flow
 
 ```
-NDBC Data → HDFS → Hive → Spark (features) → Azure ML → Cosmos DB → Streamlit Map
+NDBC Data → Python Ingestion → HDFS (raw) → Spark (clean/compact) → Parquet → Hive
+                                                                    ↓
+                                                        Spark Feature Engineering
+                                                                    ↓
+                                              Azure ML (XGBoost / Random Forest)
+                                                                    ↓
+                                              Azure Function (batch every 30 min)
+                                                                    ↓
+                                                        Cosmos DB → Streamlit Map
 ```
+
+## Tech Stack
+
+| Layer | Tool |
+|-------|------|
+| Data Source | NDBC (historical + realtime) |
+| Ingestion | Python |
+| Storage | HDFS (raw) + Parquet (processed) |
+| Processing | Apache Spark |
+| Data Warehouse | Apache Hive |
+| ML | Python + XGBoost / Random Forest |
+| Cloud ML | Azure Machine Learning |
+| Scheduling | Azure Functions |
+| Database | Azure Cosmos DB |
+| Frontend | Streamlit |
 
 ## Quick Start
 

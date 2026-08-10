@@ -6,10 +6,10 @@
 
 **Architecture:** 
 - Data Layer: NDBC NOAA (historical + realtime) → HDFS → Hive
-- Processing: Spark for compaction + feature engineering
-- ML: Azure ML (IsolationForest-like regression with HyperDrive tuning)
+- Processing: Spark for compaction + feature engineering (Parquet format)
+- ML: Azure ML with XGBoost + Random Forest regression (HyperDrive tuning)
 - Serving: Azure Function (timer-triggered batch scoring) → Cosmos DB
-- Frontend: Streamlit + streamlit-folium interactive map
+- Frontend: Streamlit + Folium interactive map
 
 **Tech Stack:** Python, PySpark, Hive, Azure ML, Azure Functions, Cosmos DB, Streamlit
 
