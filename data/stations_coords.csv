@@ -1,0 +1,1937 @@
+station_id,name,lat,lon
+0y2w3,"Sturgeon Bay CG Station, WI",44.794,-87.313
+13001,NE Extension,12.0,-23.0
+13002,NE Extension,21.0,-23.0
+13008,Reggae,15.0,-38.0
+13009,Lambada,8.0,-38.0
+13010,Soul,0.0,0.0
+14040,,-8.0,67.0
+14041,,-8.0,55.0
+14043,,-12.0,67.0
+14047,,-4.0,57.0
+14048,,-8.0,65.0
+14049,,-12.0,65.0
+15001,Gavotte,-10.0,-10.0
+15002,Java,0.0,-10.0
+15006,Valse,-6.0,-10.0
+15007,SE Extension,-6.0,8.0
+15008,,-20.0,-10.0
+15009,,0.0,-3.051
+1801583,"SD 1063 - 24 NM SSW of San Francisco, CA (Site of 46012)",37.356,-122.881
+1801589,"SD 1073 - 24 NM SSW of San Francisco, CA (Site of 46012)",37.356,-122.881
+1801593,"SD 1077 - 24 NM SSW of San Francisco, CA (Site of 46012)",37.356,-122.881
+18ci3,"Michigan City CG Station, IN",41.73,-86.91
+20cm4,"St. Joseph CG Station, MI",42.09,-86.49
+21178,South of Shikoku,33.12,133.62
+21346,"21346  380km East of Iwate, Japan",40.302,146.192
+21347,"21347  320km East of Iwate, Japan",39.601,145.799
+21348,"21348   350km East of Miyagi, Japan",38.816,145.595
+21401,250NM Southeast of Iturup Island,42.617,152.583
+21402,286NM East of Simushir Island,46.488,158.343
+21413,"SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",30.487,152.124
+21414,"AMCHITKA - 170 NM South of Amchitka, AK",48.977,178.199
+21415,"ATTU - 175 NM South of Attu, AK",50.12,171.867
+21416,"KAMCHATKA PENINSULA - 240NM SE of Kamchatka Peninsula, RU",48.126,163.355
+21417,290NM SE of the Kuril Islands,43.192,157.142
+21418,"NORTHEAST TOKYO - 450 NM NE of Tokyo, JP",38.84,148.753
+21419,KURIL ISLANDS - 209NM SE of Kuril Is.,44.401,155.653
+21420,SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki,28.98,134.973
+21595,Drifter,36.7,-132.167
+21597,Drifter,32.8,155.2
+21598,Drifter,31.3,152.7
+21600,Drifter,40.7,154.5
+21636,Drifter,31.5,127.4
+21637,Drifter,29.3,141.25
+21640,Drifter,28.3,135.5
+21707,,25.0,136.0
+21d13,"SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",30.514,152.123
+21d20,Adrift buoy from 21420,28.91,134.999
+22101,,37.23,126.02
+22102,,34.8,125.77
+22103,,34.0,127.5
+22104,,34.77,128.9
+22105,,37.53,130.0
+22106,,36.35,129.78
+22107,,33.08,126.03
+22108,,36.25,125.75
+23001,,0.0,81.0
+23003,,-2.0,81.0
+23004,,0.0,90.0
+23006,,4.0,90.0
+23007,,8.0,90.0
+23008,,12.0,90.0
+23009,,15.0,90.0
+23010,,-4.0,81.0
+23011,,15.0,65.0
+23012,,8.0,67.0
+23013,,4.0,67.0
+23014,,2.0,67.0
+23015,,0.0,67.0
+23016,,-2.0,67.0
+23017,,-4.0,67.0
+23019,,-4.0,65.0
+23020,Red Sea,22.162,38.5
+23217,Bay of Bengal IN3,3.798,91.701
+23218,Bay of Bengal IN4,10.165,88.5
+23219,Bay of Bengal,13.472,88.998
+23220,Bay of Bengal,14.433,89.333
+23223,Bay of Bengal,17.333,89.483
+23225,,18.63,67.18
+23226,Arabian Sea,20.2,67.333
+23227,Bay of Bengal,6.265,88.653
+23228,Arabian Sea,20.764,65.284
+23401,"BAY OF BENGAL - 600 NM WNW of Phuket, Thailand",8.86,88.55
+23461,"ANDAMAN SEA - 180 NM NW of Phuket, Thailand",9.534,95.669
+28401,Kuroshio Extension Observatory (KEO),32.384,144.54
+31001,Samba,0.0,-35.0
+31002,Frevo,4.0,-38.0
+31003,Para?ba,-8.0,-30.0
+31004,Salvador,-14.0,-32.0
+31005,Espirito Santo,-19.0,-34.0
+31006,NE Extension,4.0,-23.0
+31007,Jazz,0.0,-23.0
+31051,Santos,-25.283,-44.933
+31052,RECIFE,-8.15,-34.567
+31053,RIO GRANDE DO SUL,-32.595,-51.353
+31201,"Floripa, Brazil (109)",-27.705,-48.134
+31260,,-23.031,-43.088
+31261,,-31.538,-49.862
+31478,,-22.882,-43.132
+32012,Woods Hole Stratus Wave Station,-19.425,-85.078
+3202520,San Cristobal - Galapagos (B1-S),-4.148,-89.008
+3202521,Isabela - Galapagos (B2-W),-0.525,-81.386
+32066,Ecuador INOCAR,-1.136,-81.765
+32067,ECUADOR INOCAR,0.641,-81.262
+32068,"Manta - 58 NM West of Manta, Ecuador",-0.891,-81.637
+32069,"Esmeraldas - 71 NM West of Pedernales, Ecuador",0.278,-81.185
+32301,,-9.9,-105.2
+32302,,-18.0,-85.1
+32401,"180 NM West of Iquique, Chile",-20.611,-73.394
+32402,"180 NM  West of Caldera, Chile",-26.743,-73.983
+32403,"91NM West of Antofagasta, Chile",-23.163,-72.037
+32404,120 NM NW of Valparaiso,-32.13,-73.797
+32411,"WEST PANAMA - 710 NM WSW of Panama City, Panama",4.979,-90.793
+32412,"SOUTHWEST LIMA - 645 NM SW of Lima, Peru",-17.984,-86.374
+32413,"NORTHWEST LIMA - 1000 NM WNW of Lima, Peru",-7.432,-93.464
+32487,"Buenaventura, Colombia",3.517,-77.737
+32488,"Bahia Solano, Colombia",6.258,-77.511
+32489,"Colombia   121NM SW of Buenaventura, Colombia",2.998,-79.101
+32st0,Stratus,-22.0,-85.0
+34002,OOI Southern Ocean Buoy,-55.0,-90.0
+34420,"119NM NW of Concepcion, Chile",-35.758,-75.243
+41001,EAST HATTERAS - 150 NM East of Cape Hatteras,34.738,-72.503
+41002,SOUTH HATTERAS - 225 NM South of Cape Hatteras,31.743,-74.955
+41003,,30.4,-80.1
+41004,"EDISTO - 41 NM Southeast of Charleston, SC",32.502,-79.099
+41005,,31.7,-79.7
+41006,,29.3,-77.4
+41007,,34.2,-76.5
+41008,"GRAYS REEF - 40 NM Southeast of Savannah, GA",31.4,-80.866
+41009,"CANAVERAL 20 NM East of Cape Canaveral, FL",28.508,-80.185
+41010,CANAVERAL EAST - 120NM East of Cape Canaveral,28.86,-78.478
+41011,,28.2,-80.1
+41012,"St. Augustine, FL 40NM ENE of St Augustine, FL",30.042,-80.534
+41013,"Frying Pan Shoals, NC",33.436,-77.764
+41015,,35.4,-75.3
+41016,,24.6,-76.5
+41017,,35.4,-75.1
+41018,,15.0,-75.0
+41021,Olympic Northeast,31.92,-80.85
+41022,Olympic Southwest,31.89,-80.86
+41023,Olympic Southwest,31.92,-80.93
+41024,"Sunset Nearshore, NC (SUN2)",33.837,-78.477
+41025,"Diamond Shoals, NC",35.026,-75.38
+41026,Forro,12.0,-38.0
+41027,Sunset Mid-Shelf (SUN 3),33.302,-78.137
+41029,"Capers Nearshore, SC (CAP2)",32.803,-79.624
+41030,Capers Mid-Shelf (CAP 3),32.52,-79.34
+41033,"Fripp Nearshore, SC (FRP2)",32.279,-80.406
+41035,"Onslow Bay Inner, NC",34.476,-77.28
+41036,"Onslow Bay Outer, NC",34.207,-76.949
+41037,"Wrightsville Beach Offshore, NC (ILM3)",33.988,-77.362
+41038,"Wrightsville Beach Nearshore, NC (ILM2)",34.141,-77.715
+41040,NORTH EQUATORIAL ONE- 470 NM East of Martinique,14.568,-53.037
+41041,NORTH EQUATORIAL TWO - 890 NM East of Martinique,14.259,-46.052
+41043,"NE PUERTO RICO - 170 NM NNE of San Juan, PR",21.09,-64.864
+41044,NE ST MARTIN - 330 NM NE St Martin Is,21.582,-58.63
+41046,"EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas",23.84,-68.34
+41047,"NE BAHAMAS - 350 NM ENE of Nassau, Bahamas",27.557,-71.48
+41048,WEST BERMUDA - 240 NM West of Bermuda,31.878,-69.722
+41049,SOUTH BERMUDA - 300 NM SSE of Bermuda,27.505,-62.271
+41051,"South of St. Thomas, VI",18.257,-65.004
+41052,"South of St. John, VI",18.249,-64.763
+41053,"San Juan, PR",18.474,-66.099
+41056,"Vieques Island, PR",18.261,-65.464
+41057,"Puerto Plata, DO",19.833,-70.731
+41058,"North of St. Thomas, VI",18.476,-65.157
+41060,Woods Hole Northwest Tropical Atlantic Wave Station,14.824,-51.017
+41061,Woods Hole SPURS Wave Station,24.581,-38.0
+41062,Hatteras Bay (B1),35.778,-75.095
+41063,Raleigh Bay (B2),34.782,-75.941
+41064,"Onslow Bay Outer, NC (LEJ3)",34.207,-76.949
+41065,Capers Nearshore Waves (CAP2WAVE),32.802,-79.619
+41066,CHR60,32.536,-79.656
+41067,FRP2WAVE,32.276,-80.406
+41068,"Fort Pierce, FL (FTP)",27.593,-80.189
+41069,"Ponce de Leon Inlet, FL (PNC)",29.289,-80.803
+41070,Ponce de Leon Inlet Waves (PNCWAVE),29.289,-80.803
+41076,CHR60WAVE,32.536,-79.659
+41082,OOI Pioneer - Mid-Atlantic Bight Central Surface Mooring,35.95,-75.125
+41083,OOI Pioneer - Mid-Atlantic Bight Southern Surface Mooring,35.725,-74.853
+41096,North of Guadeloupe,16.533,-61.404
+41097,"Fort-de-France, Martinique",14.48,-61.096
+41098,North of Martinique,14.894,-61.113
+41100,East of Guadeloupe,15.9,-57.883
+41101,East of Martinique,14.6,-56.201
+41108,"Wilmington Harbor, NC - (200)",33.719,-78.016
+41109,"New River Inlet, NC - (190)",34.484,-77.3
+41110,"Masonboro Inlet, ILM2, NC (150)",34.144,-77.715
+41112,"Offshore Fernandina Beach, FL (132)",30.709,-81.292
+41113,"Cape Canaveral Nearshore, FL (143)",28.4,-80.533
+41114,"Fort Pierce, FL (134)",27.552,-80.216
+41115,"Rincon, Puerto Rico (181)",18.376,-67.28
+41116,"Oculina Bank North, FL (227)",28.523,-80.188
+41117,"St. Augustine, FL (194)",29.999,-81.079
+41118,"Chester Shoal, FL (228)",28.609,-80.59
+41119,"Sunset Beach, NC - (245)",33.842,-78.483
+41120,"Cape Hatteras East, NC (250)",35.258,-75.285
+41121,"Arecibo, Puerto Rico (249)",18.491,-66.701
+41122,"Hollywood Beach, FL (265)",26.001,-80.096
+41139,,20.0,-38.0
+41140,"Christiansted, St. Croix, Virgin Islands",17.769,-64.723
+41141,"Fareham, St. Croix, Virgin Islands",17.684,-64.635
+41159,"Onslow Bay Outer, NC (217)",34.211,-76.944
+41193,"Puerto Bolivar, Colombia",12.351,-72.218
+41194,"Barranquilla, Colombia",11.161,-74.681
+41300,West Indies,15.85,-57.467
+41420,"NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO",23.433,-67.386
+41421,"NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is",23.44,-63.834
+41424,"EAST CHARLESTON - 370 NM East of Charleston, SC",33.0,-72.66
+41425,"SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda",28.639,-65.774
+41554,,18.078,-64.743
+41670,,24.71,-28.42
+41852,,23.24,-24.02
+41904,,3.017,90.9
+41933,,44.95,-12.8
+41a46,"EAST BAHAMAS - 335 NM East of San Salvador Is, Bahamas backup",23.838,-68.333
+41b41,NORTH EQUATORIAL TWO - 890 NM East of Martinique,14.329,-46.082
+41d20,Adrift from 41420,23.375,-67.345
+41nt0,NTAS - Northwest Tropical Atlantic,15.0,-51.0
+41s43,"170 NM NNE of San Juan, PR (SCP12)",21.132,-64.856
+41s46,"335 NM East of San Salvador Is, Bahamas (SCP10)",23.866,-68.481
+41x01,"Adrift from 41001, 150nm E of Cape Hatteras",34.502,-72.522
+41x24,"370 NM East of Charleston, SC",32.93,-72.497
+41x40,Adrift buoy from 41040,14.536,-53.136
+41x46,Adrift buoy from 41046,23.822,-68.384
+41y10,Adrift hull from 41010,28.88,-78.48
+42001,"MID GULF - 180 nm South of Southwest Pass, LA",25.922,-89.638
+42002,"WEST GULF - 207 NM East of Brownsville, TX",25.95,-93.78
+42003,"East GULF - 208 NM West of Naples, FL",25.925,-85.616
+42004,,27.5,-85.5
+42005,,30.0,-85.9
+42006,,26.5,-96.0
+42007,"BILOXI - 22 NM SSE of Biloxi, MS",30.09,-88.769
+42008,,28.7,-95.3
+42009,,29.3,-87.5
+42010,,29.7,-93.4
+42011,,29.7,-93.5
+42012,"ORANGE BEACH - 44 NM SE of Mobile, AL",30.061,-87.547
+42013,"C10 - WFS Central Buoy, 25m Isobath",27.173,-82.924
+42014,C17 - W. FL Sea-Coos,25.254,-82.22
+42015,,30.1,-88.2
+42016,,30.2,-88.1
+42017,,27.9,-90.9
+42018,,30.0,-88.2
+42019,"FREEPORT, TX - 60 NM South of Freeport, TX",27.908,-95.343
+42020,"CORPUS CHRISTI, TX - 60NM SSE of Corpus Christi, TX",26.97,-96.679
+42021,"C14 - Pasco County Buoy, FL",28.311,-83.306
+42022,"C12 - WFS Central Buoy, 50m Isobath",27.505,-83.741
+42023,"C13 - WFS South Buoy, 50m Isobath",26.01,-83.086
+42024,C16 - W. FL MERHAB,27.464,-84.219
+42025,,24.9,-80.4
+42026,"C22 - Loop Current Pressure Point Buoy, 70m Isobath",25.171,-83.475
+42027,"C23 - FLRACEP nWFS Buoy, 45m isobath",29.045,-85.305
+42028,"C24 - FLRACEP nWFS Buoy, 58m isobath",29.745,-86.227
+42031,"West End CP, AL",30.09,-88.212
+42035,"GALVESTON,TX -  22 NM East of Galveston, TX",29.235,-94.41
+42036,"WEST TAMPA  - 112 NM WNW of Tampa, FL",28.5,-84.505
+42037,,24.5,-81.4
+42038,North Mid Gulf of America,27.421,-92.555
+42039,"PENSACOLA - 115NM SSE of Pensacola, FL",28.768,-86.024
+42040,"LUKE OFFSHORE TEST PLATFORM - 63 NM South of Dauphin Island, AL",29.207,-88.237
+42041,"North Mid Gulf 110NM South of Grand Isle, LA",27.504,-90.462
+42042,Pascagoula,29.88,-88.32
+42043,TGLO TABS Buoy B,28.982,-94.899
+42044,TGLO TABS Buoy J,26.191,-97.051
+42045,TGLO TABS Buoy K,26.217,-96.5
+42046,GERG Flower Gardens Buoy N,27.89,-94.037
+42047,GERG Flower Gardens Buoy V,27.897,-93.597
+42048,TABS D,27.939,-96.843
+42049,TABS W,28.351,-96.006
+42050,TABS F,28.842,-94.242
+42051,TABS R,29.635,-93.642
+42053,Pascagoula South,29.55,-88.5
+42054,East Gulf,26.0,-87.73
+42055,"BAY OF CAMPECHE - 214 NM NE of Veracruz, MX",22.14,-94.112
+42056,"Yucatan Basin - 120 NM ESE of Cozumel, MX",19.82,-84.98
+42057,"Western Caribbean - 195 NM WSW of Negril, Jamaica",16.975,-81.578
+42058,"Central Caribbean - 210 NM SSE of Kingston, Jamaica",14.114,-75.949
+42059,"Eastern Caribbean Sea - 180 NM SSW of Ponce, PR",15.255,-67.621
+42060,Caribbean Valley - 63 NM WSW of Montserrat,16.428,-63.21
+42065,Near 42058 Central Caribbean,14.926,-75.046
+42066,USM-R2,30.216,-89.183
+42067,USM-R1,30.05,-88.583
+42078,"Big Pine Key, FL (237)",24.5,-81.251
+42079,"Bahia Honda Key, FL (242)",24.535,-81.242
+42080,"Offshore Sand Key, FL",24.396,-81.934
+42084,"Southwest Pass Entrance W, LA (256)",28.988,-89.649
+42085,"Southeast of Ponce, PR",17.87,-66.537
+42087,"Buccoo Reef, Buccoo Marine Park, TT",11.185,-60.848
+42088,"Angel Reef, TT",11.301,-60.521
+42089,"Little Cayman Research Center, CYM",19.699,-80.061
+42090,"Catuan Wreck, Boca Chica, DR",18.432,-69.58
+42091,"Trinity Shoal, LA (255)",29.088,-92.505
+42092,"Aransas Pass Channel Entrance S, TX (252)",27.639,-97.012
+42093,"Grand Isle Outer, LA (247)",29.017,-89.832
+42094,"Grand Isle, LA (246)",29.085,-89.907
+42095,"Satan Shoal, FL (244)",24.407,-81.968
+42097,"Pulley Ridge, FL (226)",25.704,-83.654
+42098,"Egmont Channel Entrance, FL (214)",27.59,-82.931
+42099,"Offshore St. Petersburg, FL (144)",27.352,-84.275
+42354,"Chandeleur Island SE, LA (279)",29.579,-88.643
+42357,DISL Sofar Spotter,30.092,-88.212
+42358,FGBNMS Sofar Spotter,27.874,-93.815
+42407,"SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR",15.276,-68.191
+42408,"EAST GULF of AMERICA - 225NM WNW of Loggerhead Key, FL",25.2,-87.0
+42409,"GULF OF AMERICA - 247 NM South of New Orleans, LA",25.797,-89.288
+42429,DART WAVE GLIDER STATION,27.401,-85.671
+42430,DART Test Station,27.0,-86.0
+42501,"SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)",25.942,-89.657
+42503,"SD 1036 - 208 NM West of Naples, FL (Site of 42003)",25.925,-85.615
+42534,Moored Drifter,29.643,-93.839
+42d09,Adrift buoy from 42409,25.911,-89.264
+42x60,Caribbean Valley - 63 NM WSW of Montserrat,16.406,-63.188
+43010,Woods Hole Spurs Wave Station,10.051,-125.032
+43412,"SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX",16.02,-107.0
+43413,"SOUTH ACAPULCO - 360NM South of Acapulco, MX",10.927,-100.012
+44001,,38.7,-73.6
+44003,,40.8,-68.5
+44004,"HOTEL 200NM East of Cape May,NJ",38.484,-70.433
+44005,"GULF OF MAINE - 78 NM East of Portsmouth, NH",43.201,-69.127
+44006,,36.3,-75.4
+44007,"PORTLAND - 12 NM Southeast of Portland,ME",43.525,-70.14
+44008,NANTUCKET 54 NM Southeast of Nantucket,40.5,-69.254
+44009,"DELAWARE BAY 26 NM Southeast of Cape May, NJ",38.46,-74.692
+44010,,36.9,-75.7
+44011,"GEORGES BANK 170 NM East of Hyannis, MA",41.088,-66.546
+44012,,38.8,-74.6
+44013,"BOSTON 16 NM East of Boston, MA",42.346,-70.651
+44014,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA",36.603,-74.837
+44015,,37.5,-73.4
+44017,"MONTAUK POINT - 23 NM SSW of Montauk Point, NY",40.693,-72.049
+44018,"CAPE COD - 9 NM North of Provincetown, MA",42.203,-70.154
+44019,,36.4,-75.2
+44020,NANTUCKET SOUND,41.497,-70.283
+44021,Buoy D - New Meadows River,43.762,-69.988
+44022,Execution Rocks,40.883,-73.728
+44023,,37.5,-74.4
+44024,Buoy N01 - Northeast Channel,42.325,-65.909
+44025,"LONG ISLAND - 30 NM South of Islip, NY",40.258,-73.175
+44026,,36.0,-73.5
+44027,"Jonesport, ME - 20 NM SE of Jonesport, ME",44.284,-67.301
+44028,Buzzard's Bay,41.4,-71.08
+44029,Buoy A01 - Massachusetts Bay,42.523,-70.566
+44030,Buoy B01 - Western Maine Shelf,43.179,-70.426
+44031,Buoy C0201 - Casco Bay,43.57,-70.06
+44032,Buoy E01 - Central Maine Shelf,43.715,-69.355
+44033,Buoy F01 - Penobscot Bay,44.055,-68.996
+44034,Buoy I01 - Eastern Maine Shelf,44.103,-68.112
+44035,Buoy J0201 - Cobscook Bay,44.89,-67.02
+4403585,Walnut Creek Buoy,42.132,-80.27
+4403586,Buffalo Buoy,42.847,-78.904
+44036,Buoy K0102 - Saint John,45.2,-66.02
+44037,Buoy M01 - Jordan Basin,43.497,-67.876
+44038,Buoy L0102 - Scotian Shelf,43.633,-66.55
+44039,Central Long Island Sound,41.138,-72.655
+44040,Western Long Island Sound,40.956,-73.58
+44041,"Jamestown, VA",37.211,-76.787
+44042,"Potomac, MD",38.033,-76.335
+44043,"Patapsco, MD",39.152,-76.391
+44044,Patuxent River Buoy,38.389,-76.526
+44052,Goodwin Islands,37.236,-76.399
+44053,Gloucester Point,37.244,-76.5
+44054,Lower Delaware Bay Buoy,38.883,-75.183
+44055,Central Delaware Bay,39.122,-75.256
+44056,"Duck FRF, NC",36.2,-75.714
+44057,"Susquehanna, MD",39.54,-76.074
+44058,"Stingray Point, VA",37.567,-76.257
+44059,"Norfolk, VA",36.846,-76.298
+44060,Eastern Long Island Sound,41.263,-72.067
+44061,"Upper Potomac, MD",38.788,-77.036
+44062,"Gooses Reef, MD",38.556,-76.415
+44063,"Annapolis, MD",38.963,-76.448
+44064,"First Landing, VA",36.998,-76.087
+44065,"New York Harbor Entrance - 15 NM SE of Breezy Point , NY",40.368,-73.701
+44066,"Texas Tower #4 - 75 NM East of Long Beach, NJ",39.618,-72.644
+44067,"Potomac River, Near HWY 301",38.368,-76.996
+44068,VCU Rice Rivers Center,37.314,-77.191
+44069,Great South Bay,40.699,-73.087
+44070,Buzzards Bay MA. Offshore,41.392,-71.004
+44071,Chesapeake Light Va.,36.906,-75.691
+44072,"York Spit, VA",37.201,-76.266
+44073,CO2 Gulf of Maine Buoy,43.02,-70.54
+44074,Great Bay Buoy,43.071,-70.868
+44075,OOI Pioneer Inshore Surface Mooring,40.363,-70.883
+44076,OOI Pioneer Central Surface Mooring,40.137,-70.775
+44077,OOI Pioneer Offshore Surface Mooring,39.94,-70.883
+44078,OOI Irminger Sea Surface Mooring,59.94,-39.52
+44079,OOI Pioneer - Mid-Atlantic Bight Northern Surface Mooring,36.175,-74.827
+44080,Baltimore,39.223,-76.528
+44084,"Bethany Beach, DE (263)",38.537,-75.044
+44085,"Buzzards Bay, MA (260)",41.387,-71.032
+44086,"Nags Head, NC (243)",36.001,-75.421
+44087,"Thimble Shoal, VA (240)",37.043,-76.129
+44088,"Virginia Beach Offshore, VA (171)",36.612,-74.839
+44089,"Wallops Island, VA (224)",37.756,-75.325
+44090,"Cape Cod Bay, MA (221)",41.84,-70.329
+44091,"Barnegat, NJ (209)",39.772,-73.769
+44092,"Isle of Shoals, NH (211)",42.942,-70.632
+44093,"Offshore Wind Energy Area, VA (210)",36.872,-75.492
+44094,"Fire Island Nearshore, NY (207)",40.585,-73.106
+44095,"Oregon Inlet, NC (192)",35.75,-75.33
+44096,"Cape Charles, VA (186)",37.023,-75.809
+44097,"Block Island, RI  (154)",40.967,-71.124
+44098,"Jeffrey's Ledge, NH (160)",42.8,-70.169
+44099,"Cape Henry, VA (147)",36.915,-75.722
+44100,"Duck FRF 26m, NC (430)",36.257,-75.593
+44137,East Scotia Slope,42.26,-62.03
+44138,SW Grand Banks,44.25,-53.63
+44139,Banqureau Banks,44.24,-57.1
+44140,Tail of the Bank,42.87,-51.47
+44141,Laurentian Fan,42.99,-57.96
+44142,La Have Bank,42.5,-64.033
+44150,La Have Bank,42.5,-64.02
+44172,"Halifax Harbor, NS, Canada - 176",44.5,-63.408
+44174,Anticosti,49.075,-60.822
+44175,iles de la Madeleine,46.877,-62.0
+44176,Point Escuminac,47.535,-64.527
+44235,"South Ramea Island, Newfoundland (170)",47.263,-57.341
+44251,Nickerson Bank,46.44,-53.39
+44255,NE Burgeo Bank,47.27,-57.34
+44258,Halifax Harbour,44.5,-63.4
+44401,"NORTHEAST CASTLE ROCK SEAMOUNT - 620NM South of St John's Newfoundland, CN",37.592,-50.03
+44402,"SOUTHEAST BLOCK CANYON - 130 NM SE of Fire Island, NY",39.314,-70.717
+44403,"SABLE ISLAND BANK - 437 NM E of Boston, MA",41.928,-61.664
+44488,East of Chedabucto Bay,45.44,-60.95
+44489,West Chedabucto Bay,45.49,-61.14
+44490,West Bay of Fundy,44.66,-66.37
+44585,Drifting Buoy,43.354,-67.635
+44t14,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA",36.611,-74.847
+45001,"MID SUPERIOR- 60 NM North Northeast Hancock, MI",48.061,-87.793
+45002,NORTH MICHIGAN- Halfway between North Manitou and Washington Islands.,45.344,-86.411
+45003,"NORTH HURON - 32NM Northeast of Alpena, MI",45.351,-82.84
+45004,"EAST SUPERIOR -70 NM NE Marquette, MI",47.583,-86.586
+45005,"WEST ERIE - 16 NM NW of Lorain, OH",41.677,-82.398
+45006,"WEST SUPERIOR - 30NM NE of Outer Island, WI",47.335,-89.793
+45007,"SOUTH MICHIGAN - 43NM East Southeast of Milwaukee, WI",42.674,-87.026
+45008,"SOUTH HURON - 43NM East of Oscoda, MI",44.283,-82.416
+45009,,41.6,-82.0
+45010,,43.0,-87.8
+45011,Grand Haven Michigan,43.02,-86.27
+45012,"EAST Lake Ontario  - 20NM North Northeast of Rochester, NY",43.621,-77.401
+45013,"ATW20 - Atwater Park, WI",43.098,-87.85
+45014,"GB17 - South Green Bay, WI",44.794,-87.758
+45015,"Calumet Beach, Chicago, IL",41.714,-87.527
+45016,"Sixth-third St. Beach, Chicago, IL",41.783,-87.573
+45017,"Oak St. Beach, Chicago, IL",41.903,-87.622
+45018,"Montrose Ave. Beach, Chicago, IL",41.968,-87.637
+45019,"Foster Ave. Beach, Chicago, IL",41.979,-87.649
+45020,"Grand Traverse Bay South Buoy, MI",44.789,-85.604
+45021,"Traverse Bay #3, MI",45.048,-85.493
+45022,"Little Traverse Bay Buoy, MI",45.404,-85.088
+45023,"North Entry Buoy, North Keweenaw Peninsula, MI",47.27,-88.607
+45024,"Ludington Buoy, MI",43.98,-86.56
+45025,"South Entry Buoy, South Keweenaw Peninsula, MI",46.969,-88.398
+45026,"Cook Nuclear Plant Buoy, Stevensville, MI",41.982,-86.619
+45027,"McQuade Harbor Nearshore, MN",46.86,-91.93
+45028,Western Lake Superior,46.814,-91.829
+45029,"Holland Buoy, MI",42.9,-86.272
+45132,Port Stanley,42.46,-81.22
+45135,Prince Edward Pt,43.78,-76.87
+45136,Slate Island,48.54,-86.95
+45137,Georgian Bay,45.54,-81.02
+45138,Mont Louis,49.54,-65.71
+45139,West Lake Ontario - Grimsby,43.25,-79.53
+45140,Lake Winnipeg S. Basin,50.8,-96.73
+45141,Great Slave Lake,61.18,-115.31
+45142,Port Colborne,42.74,-79.29
+45143,South Georgian Bay,44.94,-80.627
+45144,Lake Winnipeg North,53.23,-98.29
+45145,Lake Winnipeg Narrows,51.87,-96.97
+45147,Lake St Clair,42.43,-82.68
+45148,Lake of the Woods,49.65,-94.5
+45149,Southern Lake Huron,43.54,-82.08
+45150,"Great Slave Lake, North Arm",61.98,-114.13
+45151,Lake Simcoe,44.5,-79.37
+45152,Lake Nipissing,46.23,-79.72
+45154,North Channel East,46.05,-82.64
+45155,Pan Am Games,43.59,-79.39
+45158,Hudson Bay,59.0,-94.0
+45159,NW Lake Ontario Ajax,43.77,-78.98
+45160,16-Mile Creek,43.417,-79.633
+45161,"Muskegon Buoy, MI",43.185,-86.354
+45162,"Thunder Bay Buoy, Alpena, MI",44.988,-83.269
+45163,"Saginaw Bay Buoy, MI",43.983,-83.6
+45164,"Cleveland Buoy, OH",41.748,-81.698
+45165,"Toledo Water Intake Buoy, Oregon, OH",41.704,-83.264
+45166,Lake Champlain - Inland Sea,44.785,-73.258
+45167,"Erie Nearshore Buoy, Erie, PA",42.185,-80.135
+45168,"South Haven Buoy, MI",42.397,-86.331
+45169,"Lakewood Buoy, OH",41.615,-81.821
+45170,"Michigan City Buoy, IN",41.755,-86.968
+45171,"Granite Island Buoy, Granite Island, MI",46.724,-87.411
+45172,"Grand Marais Buoy, Grand Marais, MI",46.74,-85.98
+45173,"Munising Buoy, Munising, MI",46.573,-86.572
+45174,"Wilmette Buoy, IL",42.135,-87.655
+45175,"Mackinac Straits West, Mackinaw City, MI",45.825,-84.772
+45176,"Cleveland Intake Crib Buoy, OH",41.55,-81.765
+45177,"Ohio St. Beach, Chicago, IL",41.894,-87.613
+45178,"1 NM SE of Valcour Island, NY",44.603,-73.394
+45179,Stannard Rock Buoy,47.195,-87.224
+45180,"Isle of Royale East, MI (230)",48.034,-87.73
+45183,Sleeping Bear Dunes,44.982,-85.831
+45184,Green Bay East Buoy,44.55,-87.959
+45185,Green Bay West Buoy,44.577,-87.987
+45186,"Waukegan Buoy, IL",42.368,-87.795
+45187,"Winthrop Harbor Buoy, IL",42.491,-87.779
+45188,Champlain Bridge Buoy,44.094,-73.423
+45190,"Sodus Point, NY",43.282,-76.961
+45191,"Oak Orchard, NY",43.388,-78.192
+45194,"McGulpin Point North, MI (253)",45.803,-84.792
+45195,"Schuyler Reef, NY (251)",44.488,-73.339
+45196,"Rocky River, OH",41.521,-81.88
+45197,"Euclid, OH",41.619,-81.617
+45198,Chicago Buoy,41.892,-87.563
+45199,Salmon Unlimited Wisconsin,42.702,-87.647
+45200,Maumee Bay Buoy,41.724,-83.37
+45201,Erie Islands Buoy,41.601,-82.781
+45202,Port Clinton Buoy,41.532,-82.941
+45203,Huron Buoy,41.393,-82.512
+45204,Sheffield Buoy,41.508,-82.115
+45205,Edgewater Beach Buoy,41.501,-81.748
+45206,Euclid Beach Buoy,41.585,-81.583
+45207,Mentor Harbor Buoy,41.731,-81.367
+45208,Ashtabula Buoy,41.913,-80.807
+45209,"Lakeport Buoy, MI",43.129,-82.391
+45210,"Rawley Point East, WI (269)",44.055,-87.05
+45211,"Grand Island North, MI (268)",46.973,-86.568
+45212,North Huron Spotter,45.351,-82.84
+45213,East Superior Spotter,47.588,-86.588
+45214,South Michigan Spotter,42.674,-87.026
+45215,"Oswego, NY (274)",43.501,-76.539
+45216,"Ontonagon, MI",46.907,-89.354
+45217,Wisconsin Point,46.708,-92.0
+45218,"Wisconsin Shipwreck Coast NMS / Sheboygan, WI",43.731,-87.624
+45219,Two Harbors Nearshore Buoy,47.021,-91.625
+45220,Dunkirk Buoy,42.561,-79.432
+45221,North Lake Champlain,44.756,-73.355
+45222,Beach 2 Buoy,42.126,-80.148
+45223,Beach 6 Buoy,42.144,-80.139
+45t01,"MID SUPERIOR- 60NM North Northeast Hancock, MI",48.008,-87.666
+46001,"WESTERN GULF OF ALASKA  - 175NM SE of Kodiak, AK",56.296,-148.027
+46002,"WEST OREGON - 275NM West of Coos Bay, OR",42.56,-130.523
+46003,S ALEUTIANS,51.831,-155.85
+46004,Middle Nomad,50.93,-136.1
+46005,"WEST WASHINGTON - 300NM West of Aberdeen, WA",46.147,-131.077
+46006,"SOUTHEAST PAPA - 600NM West of Eureka, CA",40.73,-137.42
+46007,,59.2,-152.7
+46008,,57.1,-151.7
+46009,,60.2,-146.8
+46010,,46.2,-124.2
+46011,"SANTA MARIA - 21NM NW of Point Arguello, CA",34.937,-120.999
+46012,"HALF MOON BAY - 24NM SSW of San Francisco, CA",37.356,-122.881
+46013,"BODEGA BAY - 48NM NW of San Francisco, CA",38.235,-123.317
+46014,"PT ARENA - 19NM North of Point Arena, CA",39.225,-123.98
+46015,"PORT ORFORD - 15 NM West of Port Orford, OR",42.754,-124.839
+46016,,63.283,-170.3
+46017,,60.283,-172.3
+46018,,60.283,-177.0
+46019,,57.2,-170.3
+46020,,55.883,-168.0
+46021,,57.7,-160.0
+46022,"EEL RIVER - 17NM WSW of Eureka, CA",40.716,-124.54
+46023,"PT ARGUELLO - 17NM WNW of Point Arguello, CA",34.714,-120.967
+46024,,33.0,-119.2
+46025,"Santa Monica Basin - 33NM WSW of Santa Monica, CA",33.765,-119.077
+46026,"SAN FRANCISCO - 18NM West of San Francisco, CA",37.75,-122.838
+46027,"ST GEORGES - 8 NM NW of Crescent City, CA",41.84,-124.382
+46028,"CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA",35.763,-121.9
+46029,COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth,46.148,-124.508
+46030,BLUNTS REEF,40.423,-124.525
+46031,,55.5,-161.683
+46032,,54.2,-165.8
+46033,,55.783,-159.8
+46034,,55.1,-163.1
+46035,"CENTRAL BERING SEA - 310 NM North of Adak, AK",57.034,-177.468
+46036,South Nomad,48.36,-133.94
+46037,,48.3,-133.8
+46038,,41.9,-124.4
+46039,,48.2,-123.4
+46040,,44.8,-124.3
+46041,"CAPE ELIZABETH - 45NM NW of Aberdeen, WA",47.351,-124.741
+46042,"MONTEREY - 27NM WNW of Monterey, CA",36.787,-122.408
+46043,,46.9,-124.2
+46044,,36.7,-122.378
+46045,REDONDO BEACH,33.84,-118.45
+46047,"TANNER BANK - 121 NM West of San Diego, CA",32.418,-119.535
+46048,,32.9,-117.9
+46050,"STONEWALL BANK - 20NM West of Newport, OR",44.679,-124.535
+46051,Harvest Experiment Platform,34.48,-120.69
+46053,"EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA",34.246,-119.842
+46054,"WEST SANTA BARBARA  38 NM West of Santa Barbara, CA",34.274,-120.468
+46059,"WEST CALIFORNIA - 357NM West of San Francisco, CA",38.067,-129.895
+46060,"WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK",60.571,-146.795
+46061,"Seal Rocks - Between Montague and Hinchinbrook Islands, AK",60.23,-146.837
+46062,"Pt. San Luis, CA - 18 NM South Southwest of Morro Bay, CA",35.101,-121.01
+46063,"Pt.Conception, CA - 50NM West of Santa Barbara, CA",34.273,-120.699
+46066,"SOUTH KODIAK - 310NM SSW of Kodiak, AK",52.776,-154.992
+46069,"SOUTH SANTA ROSA - 14 NM SW of Santa Rosa Island, CA",33.657,-120.227
+46070,"SOUTHWEST BERING SEA - 142NM NNE OF ATTU IS, AK",55.048,175.246
+46071,"WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK",51.035,179.808
+46072,CENTRAL ALEUTIANS 230 NM SW Dutch Harbor,51.645,-172.145
+46073,"SOUTHEAST BERING SEA - 205 NM WNW of Dutch Harbor, AK",54.985,-171.874
+46075,"SHUMAGIN ISLANDS - 85NM South of Sand Point, AK",53.93,-160.763
+46076,"CAPE CLEARE - 17 NM South of Montague Is,  AK",59.508,-148.005
+46077,"SHELIKOF STRAIT, AK",57.869,-154.211
+46078,"ALBATROSS BANK - 104NM South of Kodiak Is., AK",55.561,-152.599
+46079,Barren Island,59.05,-152.23
+46080,"PORTLOCK BANK - 76 NM ENE of Kodiak, AK",57.91,-150.129
+46081,Western Prince William Sound,60.802,-148.283
+46082,"Cape Suckling - 35 NM SE of Kayak Is, AK",59.67,-143.353
+46083,"FAIRWEATHER GROUND - 105 NM West  of Juneau, AK",58.276,-138.024
+46084,"CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK",56.614,-136.04
+46085,"CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK",55.84,-142.895
+46086,"SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA",32.504,-118.029
+46087,"Neah Bay - 6 NM North of Cape Flattery, WA (Traffic Separation Lighted Buoy)",48.493,-124.727
+46088,"NEW DUNGENESS - 17 NM NE of Port Angeles, WA",48.332,-123.179
+46089,"TILLAMOOK, OR - 85 NM WNW of Tillamook, OR",45.928,-125.815
+46090,SOCAL WEST NOOS WX BUOY,32.876,-120.718
+46091,MBM0,36.835,-121.899
+46092,MBM1,36.751,-122.029
+46093,MBM2,36.69,-122.41
+46094,"Buoy NH-10 - West of Newport, OR",44.642,-124.3
+46096,Columbia River Entrance - SATURN Station #02 Offshore,46.173,-124.127
+46097,OOI Newport Shelf,44.639,-124.304
+46098,OOI Waldport Offshore,44.378,-124.947
+46099,OOI Westport Shelf,46.988,-124.567
+46100,OOI Westport Offshore,46.851,-124.964
+46105,"South Cook Inlet - 10NM NW of East Amatuli Light, AK",59.049,-152.233
+46106,Central Cook Inlet AK,59.76,-152.09
+46107,Montague Strait,59.925,-147.992
+46108,Lower Cook Inlet (204),59.598,-151.828
+46109,Port Angeles Buoy,48.123,-123.395
+46110,Sequim Buoy,48.115,-123.032
+46111,Fort Worden Buoy,48.131,-122.748
+46112,Marrowstone Buoy,48.1,-122.73
+46113,Poulsbo Buoy,47.73,-122.646
+46114,"West Monterey Bay, CA (185)",36.7,-122.343
+46115,Bering Sea,57.069,-177.75
+46116,"SATURN Estuary Station #07, Baker Bay, WA",46.287,-124.016
+46117,"SATURN Estuary Station #09, Youngs Bay, OR",46.176,-123.869
+46118,Se'lhaem Bellingham Bay,48.724,-122.576
+46119,Cha'Ba La Push,47.967,-124.95
+46120,"Pt Wells, WA (U of Wash)",47.761,-122.397
+46121,"Carr Inlet, WA (U of Wash)",47.28,-122.73
+46122,"Dabob Bay, WA (U of Wash)",47.803,-122.803
+46123,"Twanoh - Hood Canal, WA (U of Wash)",47.375,-123.008
+46124,"Hoodsport - Hood Canal, WA (U of Wash)",47.422,-123.113
+46125,"Hansville - Hood Canal, WA",47.907,-122.627
+46126,Wide Bay (Shell),53.951,-166.602
+46127,"SATURN Offshore Station #10, Columbia River, South Jetty, OR",46.215,-124.063
+46128,"Buoy CB-06 - West of Coos Bay, OR",43.292,-124.538
+46131,Sentry Shoal,49.91,-124.98
+46132,South Brooks,49.78,-127.89
+46134,Pat Bay,48.65,-123.5
+46138,"South Hecate Strait, Canada (174)",52.437,-129.795
+46139,"La Perouse Bank DWR, Canada  (195)",48.844,-126.01
+46145,Central Dixon Entrance Buoy,54.37,-132.42
+46146,Halibut Bank,49.34,-123.73
+46147,South Moresby,51.83,-131.22
+46181,Nanakwa Shoal,53.83,-128.83
+46183,North Hecate Strait,53.62,-131.1
+46184,North Nomad,53.92,-138.85
+46185,South Hecate Strait,52.42,-129.79
+46204,West Sea Otter,51.38,-128.77
+46205,West Dixon Entrance,54.18,-134.32
+46206,La Perouse Bank,48.84,-126.0
+46207,East Dellwood,50.87,-129.92
+46208,West Moresby,52.52,-132.69
+46211,"Grays Harbor, WA (036)",46.857,-124.243
+46212,"Humboldt Bay South Spit, CA (128)",40.753,-124.313
+46213,"Cape Mendocino, CA (094)",40.291,-124.748
+46214,"Point Reyes, CA (029)",37.944,-123.466
+46215,"Diablo Canyon, CA (076)",35.204,-120.859
+46216,"Goleta Point, CA (107)",34.333,-119.803
+46217,"Anacapa Passage, CA (111)",34.167,-119.435
+46218,"Harvest, CA (071)",34.452,-120.78
+46219,"San Nicolas Island, CA (067)",33.226,-119.891
+46220,"El Porto, CA (125)",33.897,-118.446
+46221,"Santa Monica Bay, CA (028)",33.86,-118.641
+46222,"San Pedro, CA (092)",33.614,-118.314
+46223,"Dana Point, CA (096)",33.458,-117.767
+46224,"Oceanside Offshore, CA (045)",33.178,-117.472
+46225,"Torrey Pines Outer, CA (100)",32.933,-117.391
+46226,"Point La Jolla, CA (095)",32.848,-117.353
+46227,"Point Loma, CA (091)",32.632,-117.444
+46228,"Pitas Point, CA (130)",34.317,-119.417
+46229,"UMPQUA OFFSHORE, OR (139)",43.772,-124.549
+46230,"Huntington Beach Nearshore, CA (172)",33.623,-118.012
+46231,"Mission Bay, CA (093)",32.747,-117.37
+46232,"Point Loma South, CA  (191)",32.517,-117.425
+46233,SCCOOS San Diego Mooring,32.936,-117.32
+46234,"Port Hueneme Nearshore, CA (141)",34.1,-119.168
+46235,"Imperial Beach Nearshore, CA (155)",32.57,-117.169
+46236,"Monterey Canyon Outer, CA  (156)",36.759,-121.95
+46237,"San Francisco Bar, CA  (142)",37.788,-122.634
+46238,"Santa Cruz Basin, CA (167)",33.76,-119.55
+46239,"Point Sur, CA (157)",36.342,-122.11
+46240,"Cabrillo Point, Monterey Bay, CA  (158)",36.626,-121.907
+46241,"San Elijo Nearshore, CA (161)",33.003,-117.292
+46242,"Camp Pendleton Nearshore, CA  (043)",33.22,-117.439
+46243,"Clatsop Spit, OR (162)",46.215,-124.129
+46244,"Humboldt Bay, North Spit, CA (168)",40.896,-124.358
+46245,"Ventura Nearshore, CA - 169",34.251,-119.308
+46246,Ocean Station PAPA  (166),49.903,-145.246
+46247,"San Francisco Offshore, CA  (180)",37.753,-122.833
+46248,"Astoria Canyon, OR  (179)",46.133,-124.64
+46249,"Santa Cruz Island South, CA (182)",33.821,-119.708
+46250,"Point Mugu Offshore, CA - 184",34.034,-119.09
+46251,"Santa Cruz Basin, CA (203)",33.769,-119.565
+46252,"Anacapa Passage South, CA (212)",33.953,-119.257
+46253,"San Pedro South, CA (213)",33.576,-118.182
+46254,"SCRIPPS Nearshore, CA (201)",32.868,-117.267
+46255,"Begg Rock, CA  (138)",33.4,-119.651
+46256,"Long Beach Channel, CA (215)",33.7,-118.201
+46257,"Harvest Southeast, CA (216)",34.439,-120.766
+46258,"Mission Bay West, CA (220)",32.749,-117.502
+46259,"Santa Lucia Escarpment, CA (222)",34.774,-121.491
+46260,"Lakeside, OR (231)",43.586,-124.29
+46261,"Reedsport, OR (232)",43.76,-124.225
+46262,"Santa Barbara Island North, CA (234)",33.704,-119.004
+46263,"Fort Bragg South, CA (235)",39.37,-123.912
+46264,"Kodiak, AK (236)",57.479,-151.695
+46265,"Nome, AK (241)",64.474,-165.479
+46266,"Del Mar Nearshore, CA (153)",32.957,-117.279
+46267,"Angeles Point, WA (248)",48.171,-123.6
+46268,"Topanga Nearshore, CA (103)",34.022,-118.578
+46269,"Point Santa Cruz, CA (254)",36.934,-122.034
+46270,S.W. Bering Sea,55.003,175.284
+46273,"Torrey Pines Inner, CA (101)",32.93,-117.274
+46274,"Leucadia Nearshore, CA (262)",33.062,-117.314
+46275,"Red Beach Nearshore, CA (264)",33.291,-117.501
+46276,"Pajaro Beach, CA (266)",36.845,-121.825
+46277,"Green Beach Offshore, CA (271)",33.336,-117.659
+46278,"Tillamook Bay South Jetty, OR (270)",45.559,-123.991
+46279,"Pajaro Beach South, CA (267)",36.838,-121.82
+46280,Newport PWS North (277),44.575,-124.234
+46281,"Newport PWS South, OR (278)",44.559,-124.233
+46282,"Aptos Creek Nearshore, CA 275",36.951,-121.921
+46283,"Yaquina Channel SW, OR (280)",44.567,-124.237
+46284,"Soquel Cove South, CA (281)",36.93,-121.934
+46285,"Capistrano Beach Nearshore, CA (284)",33.445,-117.68
+46290,NOOSS Optimization Buoy,32.659,-120.63
+46303,Southern Georgia Strait,49.02,-123.43
+46304,Entrance To English Bay,49.3,-123.36
+46401,"SOUTHEAST ADAK - 377NM SE of Adak, AK",46.638,-170.79
+46402,"South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK",50.913,-164.147
+46403,"SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK",52.7,-156.983
+46404,"WEST ASTORIA - 230 NM West of Astoria, OR",45.852,-128.745
+46405,"325 NM West-Southwest of Newport, OR",42.903,-130.909
+46406,"2,900 NM Southeast of Hawaii",-8.491,-125.022
+46407,"NEWPORT - 210NM West of Coos Bay, OR",42.704,-128.895
+46408,"NIKOLSKI - 212 NM South of Umnak Is, AK",49.677,-169.825
+46409,"SOUTHEAST KODIAK - 210 NM SE of Kodiak, AK",55.338,-148.575
+46410,"SOUTH CORDOVA - 188 NM SSE of Cordova, AK",57.641,-143.771
+46411,"Mendocino - 150 NM West of  Mendocino Bay, CA",39.337,-127.04
+46412,"San Diego - 175 NM West of San Diego, CA",32.4,-120.582
+46413,"SOUTH-SOUTHEAST ADAK - 243 NM SSE of Adak Island, AK",48.031,-173.766
+46414,"SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK",53.756,-152.456
+46415,"SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK",53.029,-139.889
+46416,"WEST VANCOUVER - 442NM West of Vancouver, BC, Canada",49.939,-134.427
+46419,"NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA",48.816,-129.614
+46451,"PMEL 4G Test 1 - 83NM W of Newport, OR",44.815,-125.699
+46452,"PMEL 4G Test 2 - 74NM West of Newport, OR",44.807,-125.759
+46453,Backyard Buoys - Quinault North,47.45,-124.43
+46490,NOOSS Optimization Buoy,32.455,-120.557
+46518,Drifting Buoy,44.5,-170.0
+46531,Drifting Buoy,41.0,-165.0
+46534,Drifting Buoy,48.0,-165.0
+46538,Drifting Buoy,24.14,-127.9
+46551,Drifting Buoy,53.033,-161.81
+46553,Drifting Buoy,54.54,-165.44
+46565,Drifting Buoy,44.5,-170.0
+46779,Drifting Buoy,57.0,-149.0
+46780,Drifting Buoy,56.04,-167.14
+46781,Drifting Buoy,54.634,-177.948
+46782,Drifting Buoy,56.04,-167.14
+46785,Drifting Buoy,55.0,-173.0
+46b35,"CENTRAL BERING SEA - 310 NM North of Adak, AK",57.069,-177.75
+46d02,Adrift buoy from 46402,50.983,-163.943
+46d04,Adrift Buoy from 46404,42.87,-128.752
+46d15,Adrift buoy from 46415,53.035,-139.884
+46d16,Adrift buoy from 46416,49.901,-134.395
+46flo,Monterey Bay (FLOSSIE),36.668,-122.562
+46t29,COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth,46.141,-124.574
+46x61,Adrift buoy from 46061,60.238,-146.833
+48011,Red Dog Mine,67.582,-164.185
+48012,Point Lay (UAF),70.025,-166.071
+48021,Tuktoyaktuk,70.35,-133.0
+48114,30 NM West of King Island,65.011,-169.454
+48211,Camden Bay (Shell Arctic),70.37,-146.04
+48212,Harrison Bay (Shell Arctic),70.874,-150.279
+48213,Burger,71.502,-164.133
+48214,Klondike (MOB1),70.872,-165.248
+48215,Hanna Shoal (MOB3),71.502,-164.133
+48216,Crackerjack (Shell Arctic),71.758,-167.952
+48400,Ocean Climate Station Papa,50.055,-144.873
+48677,,72.568,-177.61
+48678,,74.076,-172.987
+48679,,75.778,-159.89
+48680,,74.776,-157.236
+51000,NORTHERN HAWAII ONE - 245NM NE of Honolulu HI,23.534,-153.752
+51001,"NORTHWESTERN HAWAII ONE - 188 NM NW of Kauai Island, HI",24.475,-162.03
+51002,"SOUTHWEST HAWAII - 215NM SSW of Hilo, HI",17.07,-157.755
+51003,"WESTERN  HAWAII - 205 NM SW of Honolulu, HI",19.143,-160.645
+51004,"SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI",17.504,-152.197
+51005,,20.4,-156.1
+51026,Northern Molokai,21.35,-156.93
+51027,,20.4,-157.1
+51028,Christmas Island,0.0,-153.913
+51045,"Hilo Bay, HI",19.734,-155.082
+51046,"Kawaihai, HI",20.024,-155.828
+51100,"NORTHERN HAWAII TWO - 252NM NE of Honolulu, HI",23.558,-153.9
+51101,"NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI",24.359,-162.081
+51111,Backyard Buoys - Tau Faga Cove,-14.245,-169.509
+511x1,"NORTHWESTERN HAWAII TWO - 190NM NW of Kauai Is, HI",23.445,-162.279
+51200,"Barbers Point, HI  (164)",21.096,-158.303
+51201,"Waimea Bay, HI (106)",21.671,-158.118
+51202,"Mokapu Point, HI (098)",21.414,-157.681
+51203,"Kaumalapau, HI (146)",20.788,-157.01
+51204,"Barbers Point, HI #2 (165)",21.281,-158.124
+51205,"Pauwela, Maui, HI (187)",21.018,-156.421
+51206,"Hilo, Hawaii, HI (188)",19.779,-154.97
+51207,"Kaneohe Bay, HI (198)",21.477,-157.752
+51208,"Hanalei, Kauai, HI (202)",22.285,-159.574
+51209,"Aunuu, American Samoa (189)",-14.273,-170.501
+51210,"Kaneohe Bay, WETS, HI (225)",21.477,-157.757
+51211,"Pearl Harbor Entrance, HI (233)",21.297,-157.959
+51212,"Barbers Point, Kalaeloa, HI (238)",21.323,-158.149
+51213,"Kaumalapau Southwest, Lanai, HI (239)",20.75,-157.002
+51214,"King-Poloa, American Samoa (273)",-14.296,-170.875
+51406,CENTRAL SOUTH PACIFIC  - 1040NM NNE of Pitcarin Is,-8.48,-125.027
+51407,"HAWAII - 34NM West of Kailua-Kona, HI",19.53,-156.601
+51425,"NORTHWEST APIA - 370 NM NW of Apia, Samoa",-9.511,-176.258
+51426,SOUTHEAST TONGA - 400NM SE of Tonga,-23.11,-168.385
+51542,TAO Buoy Adrift,0.018,-179.903
+51d07,Adrift buoy from 51407,19.614,-156.562
+51d26,SOUTHEAST TONGA - 400NM SE of Tonga,-22.993,-168.133
+51wh0,WHOTS - Woods Hole Ocean Time-series,22.0,-157.0
+52009,,13.729,-144.668
+52162,Backyard Buoys - Saipan Sugar Dock,15.15,145.694
+52200,"Ipan, Guam (121)",13.354,144.788
+52201,"Kalo, Majuro, Marshall Islands (163)",7.078,171.384
+52202,"Ritidian Point, Guam (196)",13.682,144.811
+52211,"Tanapag, Saipan, NMI (197)",15.269,145.664
+52212,"Ngaraard, Babeldaob, Palau (219)",7.63,134.671
+52213,"North Point, Pohnpei, Micronesia (178)",7.081,158.244
+52214,"Rumung, Yap, Micronesia (272)",9.678,138.176
+52215,"UTWE, KOSRAE, MICRONESIA (276)",5.241,163.001
+52216,"Pikareej, Arno, Marshall Islands (282)",7.323,171.641
+52401,NORTHEAST SAIPAN - 610 NM ENE of Saipan,19.282,155.759
+52402,SOUTHEAST SAIPAN - 540NM ESE of Saipan,11.928,153.876
+52403,"NORTH MANUS - 345NM North of Manus Is , New Guinea",4.018,145.628
+52404,"NORTH PHILIPPINE SEA - 750 NM NE of Manila, Philippines",20.625,132.228
+52405,"SOUTH PHILIPPINE SEA -725 NM West of Agana, Guam",12.992,132.232
+52406,NORTHEAST SOLOMON - 370NM NE of Guadalcanal,-5.374,164.99
+52834,,14.0,154.953
+52837,,9.777,137.0
+52838,,7.774,140.0
+52839,,5.758,143.0
+52840,,8.731,151.0
+52841,,5.943,149.0
+52842,,6.759,150.0
+52843,,11.761,134.0
+52849,,16.0,155.256
+52858,,14.0,154.953
+52862,,16.0,155.256
+52901,,15.0,155.104
+53005,,-8.0,81.0
+53006,,-12.0,81.0
+53009,,-12.0,93.0
+53040,,-8.0,95.0
+53046,South Bali,-11.445,113.607
+53056,,-5.0,95.0
+53057,,-2.0,90.0
+53401,Indonesia,0.05,91.899
+5401000,NZC - Offshore Gisborne Hikurangi,-38.2,-179.797
+5401001,NZE - Offshore East Cape Kermadec,-36.049,-177.708
+5401002,NZF - Offshore Raoul Island Kermadec,-29.683,-175.012
+5401003,NZG - Offshore Tongatapu Tonga,-23.352,-173.402
+5401004,NZH - Offshore Niue Tonga,-20.088,-171.863
+5401005,NZI - Offshore Samoa Tonga,-16.889,-171.191
+54401,"NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",-33.109,-173.155
+54d01,"NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",-33.005,-172.985
+5501002,NZA - Offshore Wellington Hikurangi,-42.371,176.911
+5501003,NZB - Offshore Hawke's Bay Hikurangi,-40.599,179.096
+5501004,NZD - Offshore Bay of Plenty Kermadec,-36.1,178.604
+5501005,NZJ - Offshore Norfolk Island New Hebrides,-26.667,163.955
+5501006,NZK - Offshore New Caledonia New Hebrides,-24.309,169.499
+5501007,NZL - Offshore Vanuatu New Hebrides,-19.31,166.782
+55012,Coral Sea 1     -     1285km ENE of Townsville,-15.664,158.453
+55013,TASMAN SEA 3     -     1160km ESE of Hobart,-46.665,161.001
+55015,TASMAN SEA 1     -     1110km ESE of Hobart,-46.956,160.343
+55016,ETD Fiji Basin,-26.0,176.0
+55023,Coral Sea 2     -     870km NE of Townsville,-14.715,153.537
+55039,,-38.36,148.11
+55042,Tasman Sea 2     -     1175km ESE of Hobart,-44.79,161.7
+55401,"600 NM Southeast of Hobart, Tasmania",-46.922,160.562
+56001,Indian Ocean 1     -      1025km NW of Dampier,-14.046,110.028
+56003,Indian Ocean 2     -     630km NNE of Dampier,-15.019,118.073
+56053,,-16.0,81.0
+56055,,-25.0,100.0
+61001,Nice Buoy,43.4,7.8
+61002,Lion Buoy,42.102,4.703
+62001,Gascogne Buoy,45.23,-5.0
+62027,"Jersey Buoy, English Channel - 5 nm south of Jersey, UK",49.082,-2.218
+62028,"Weymouth Bay, UK",50.59,-2.3
+62029,K1 Buoy,48.72,-12.43
+62030,L4 Buoy,50.25,-4.217
+62050,E1,50.0,-4.4
+62052,,48.5,-5.6
+62081,K2 Buoy,51.0,-13.55
+62090,M1 - 50 NM West of Aran Islands,53.127,-11.2
+62091,M2 - 20 NM East of Lambay,53.469,-5.418
+62092,M3 - 30 NM Southwest of Mizen Head,51.13,-10.33
+62093,M4 - Donegal Bay,55.0,-10.0
+62094,M5 - South East,51.41,-6.42
+62095,M6 - West Coast,53.04,-15.53
+62103,Channel Lightship,49.9,-2.9
+62105,K4 Buoy,55.41,-11.81
+62107,Sevenstones Lightship,50.102,-6.1
+62108,K3 Buoy,53.5,-19.5
+62114,"Tartan ""A"" AWS",58.3,0.0
+62121,Carrack AWS,53.5,2.7
+62124,Conwy,53.6,-3.6
+62125,,53.8,-3.5
+62126,,53.9,-3.6
+62127,Cleeton AWS,54.0,0.7
+62130,Brae A,58.7,1.3
+62135,Trent,54.2,1.6
+62142,North Sea,53.0,2.101
+62144,Clipper AWS,53.4,1.7
+62145,North Sea,53.102,2.8
+62146,Lomond AWS,57.2,2.1
+62147,Galaxy 111,55.7,4.7
+62148,Barque AWS,53.6,1.5
+62149,"West Sole ""A"" AWS",53.7,1.1
+62150,Amethyst AWS,53.6,0.7
+62163,Brittany Buoy,47.55,-8.47
+62164,Anasuria AWS,57.2,0.8
+62165,Ravenspurn North AWS,54.0,1.1
+62166,Thames,53.0,2.5
+62170,F3 Light Vessel,51.24,2.0
+62298,Celtic Sea Buoy,49.4,-8.6
+62301,Aberporth Buoy,52.22,-4.42
+62303,Pembroke Buoy,51.602,-5.1
+62304,Sandettie Lightship,51.102,1.8
+62305,Greenwich Lightship,50.4,0.0
+62442,Pap,49.0,-16.5
+63105,"Brent ""B"" AWS",61.0,1.692
+63110,Beryl A AWS,59.5,1.5
+63112,Cormorant AWS,61.1,1.0
+63113,"Brent ""A"" AWS",61.0,1.708
+63115,Magnus AWS,61.6,1.3
+63117,Eider AWS,61.4,1.1
+64045,K5 Buoy,59.15,-11.79
+64046,K7 Buoy,60.483,-4.167
+91204,"Ulithi Is., Caroline",9.9,139.7
+91222,"Pagan Is.,Mariana",18.13,145.77
+91251,"Enewetak, MarShall",11.43,162.35
+91328,"Ulul Atoll, Caroline",8.6,149.67
+91338,"Satawan Atoll, Caro.",5.28,153.65
+91343,"Oroluk, Caroline",7.63,155.16
+91352,"Pingelap, Caroline",6.21,160.7
+91355,"Kosrae, Caroline",5.36,162.96
+91356,"Kosrae, Caroline",5.36,162.96
+91365,"Ujae Atoll, Marshall",8.93,165.75
+91374,"Maloelap, Marshall",8.7,171.2
+91377,"Mili, Marshalls Is.",6.1,172.1
+91411,"Ngulu Atoll, Caroline",8.3,137.5
+91442,"Ebon Atoll, Caroline",4.6,168.7
+97001,,30.0,-90.0
+aamc1,"9414750 - Alameda, CA",37.772,-122.3
+aban6,"Alexandria Bay, NY",44.333,-75.933
+abya2,"Auke Bay Lab Dock, AK",58.381,-134.646
+acfs1,"Grove Plantation, ACE Basin Reserve, SC",32.664,-80.413
+acmn4,"Atlantic City Marina, NJ",39.38,-74.42
+acqs1,"St. Pierre, ACE Basin Reserve, SC",32.523,-80.357
+acxs1,"Bennett's Point, ACE Basin Reserve, SC",32.559,-80.454
+acyn4,"8534720 - Atlantic City, NJ",39.357,-74.418
+adbf1,"Dry Bar, Apalachicola Reserve, FL",29.675,-85.058
+adka2,"9461380 - Adak Island, AK",51.861,-176.637
+agcm4,"9014070 - Algonac, MI",42.621,-82.527
+agmw3,"Algoma City Marina, WI",44.608,-87.433
+agxc1,"9410647 - Angels Gate, CA",33.716,-118.246
+ajxa2,"Juneau AJ Dock, AK",58.287,-134.398
+akxa2,"Akutan, AK",54.132,-165.782
+alia2,"9457804 - Alitak, AK",56.898,-154.247
+alrf1,Alligator Reef,24.9,-80.6
+alsn6,"Ambrose Light, NY",40.45,-73.8
+alxn6,"8311062 - Alexandria Bay, NY",44.331,-75.934
+amaa2,"East Amatuli Island Light, AK",58.916,-151.952
+amps1,Payload Test (LAB Set-Up),30.357,-89.613
+amps2,Payload Test (BUOY Set-Up),30.357,-89.613
+amps3,Payload Test (C-MAN Set-Up),30.357,-89.613
+amps4,Payload Test (PSI Set-Up),30.357,-89.613
+amrl1,"8764227 - LAWMA, Amerada Pass, LA",29.45,-91.338
+ancf1,"Anclote Gulf Park, FL",28.193,-82.789
+anmf1,"ANM - Anna Maria, FL",27.538,-82.739
+anmn6,"Field Station, Hudson River Reserve, NY",42.018,-73.917
+anpt2,"8775241 - Aransas, Aransas Pass, TX",27.837,-97.039
+anrn6,"Tivoli South Bay, Hudson River Reserve, NY",42.027,-73.926
+anta2,"9455920 - Anchorage, AK",61.238,-149.89
+anvc1,"9416841 - Arena Cove, CA",38.915,-123.711
+apam2,"8575512 - Annapolis, MD",38.983,-76.479
+apcf1,"8728690 - Apalachicola, FL",29.724,-84.98
+apma2,"Anchorage Port, AK",61.238,-149.887
+apnm4,"Alpena Harbor Light, Alpena, MI",45.06,-83.424
+apqf1,"East Bay Bottom, Apalachicola Reserve, FL",29.786,-84.875
+aprp7,"1630000 - Apra Harbor, Guam",13.444,144.657
+apxa2,"Anchor Point, Kachemak Bay Reserve, AK",59.77,-151.868
+apxf1,"East Bay, Apalachicola Reserve, FL",29.769,-84.881
+arop4,"9757809 - Arecibo, PR",18.48,-66.702
+arpf1,"APK - Aripeka, FL",28.433,-82.667
+asbo1,Ashtabula Lighthouse,41.918,-80.796
+asto3,"9439040 - Astoria, OR",46.207,-123.768
+atgm1,"8413320 - Bar Harbor, ME",44.392,-68.204
+atka2,"9461710 - Atka, AK",52.232,-174.173
+audp4,"9759412 - Aquadilla, PR",18.457,-67.165
+auga2,"Augustine Island, AK",59.378,-153.348
+avan4,"Avalon, NJ",39.09,-74.72
+awrt2,"8774230 - Aransas Wildlife Refuge, TX",28.227,-96.796
+babt2,"8776604 - Baffin Bay, TX",27.297,-97.405
+bara9,"9761115 - Barbuda, AG",17.591,-61.821
+barn6,"Barcelona Harbor, NY",42.345,-79.595
+batn6,"8518750 - The Battery, NY",40.701,-74.014
+baxc1,9410691 - Los Angeles Badger Avenue Bridge,33.766,-118.24
+bbnf1,BBCW8,25.601,-80.306
+bbsf1,BBCW10,25.472,-80.349
+bcfm2,Brewerton Channel Range Front Light (8574831),39.205,-76.524
+bctp1,Beach 2 Tower,42.153,-80.131
+bdrn4,"8539094 - Burlington, Delaware River, NJ",40.082,-74.87
+bdsp1,"8546252 - Bridesburg, PA",39.98,-75.079
+bdvf1,"Broad River, FL",25.478,-80.989
+bdxc1,"Bodega, CA",38.317,-123.071
+beis1,"Edisto Island, ACE Basin Reserve, SC",32.504,-80.325
+bepb6,"2695540 - Bermuda, St. Georges Island, BM",32.374,-64.701
+bexa2,"Bethel, AK",60.791,-161.749
+bftn7,"8656483 - Beaufort, NC",34.717,-76.671
+bgcf1,"BCP - Big Carlos Pass, FL",26.404,-81.881
+bgnn6,"8519483 - Bergen Point West Reach, NY",40.639,-74.146
+bgxn3,"Greenland, Great Bay Reserve, NH",43.059,-70.83
+bhbm3,"8443970 - Boston, MA",42.355,-71.05
+bhrc3,"Bridgeport Terminal, CT",41.175,-73.185
+bhri3,"Burns Harbor, IN",41.646,-87.147
+bigm4,"Big Bay, MI",46.827,-87.727
+bilw3,"Barker's Island, Lake Superior Reserve, WI",46.722,-92.064
+bism2,"8571421 - Bishops Head, MD",38.22,-76.039
+bkbf1,"8720357 -  I-295 Buckman Bridge, St Johns River, FL",30.192,-81.692
+bktl1,"8767961 - Lake Charles Bulk Terminal, LA",30.19,-93.301
+bkyf1,"Buoy Key, FL",25.119,-80.834
+blia2,"Bligh Reef Light, AK",60.839,-146.884
+blif1,"8720233 - Blount Island Command, St Johns River, FL",30.393,-81.523
+blta2,Bartlett Cove AK,58.455,-135.889
+bltm2,"8574680 - Baltimore, MD",39.267,-76.579
+bltm3,"8447387 - Borden Flats Light at Fall River, MA",41.704,-71.174
+bmtw1,"9445958 - Bremerton, WA",47.562,-122.626
+bnkf1,"Butternut Key, FL",25.087,-80.519
+bobf1,"Bob Allen, FL",25.027,-80.681
+bphf1,"BISHOP HARBOR, FL",27.608,-82.571
+brbn4,"Brant Beach, NJ",39.61,-74.2
+brhc3,"8467150 - Bridgeport, CT",41.174,-73.181
+brim2,"Railroad, Chesapeake Bay Reserve, MD",38.781,-76.714
+brnd1,"8555889 - Brandywine Shoal Light, DE",38.987,-75.113
+bsbm4,"Big Sable Point, MI",44.055,-86.514
+bsca1,"Bon Secour, AL",30.329,-87.829
+bskf1,"Big Sable Creek, FL",25.266,-81.162
+bslm2,"Jug Bay, Chesapeake Bay Reserve, MD",38.781,-76.708
+bthd1,"Bethany Beach, DE",38.537,-75.046
+bufn6,"9063020 - Buffalo, NY",42.878,-78.89
+burl1,"Southwest Pass, LA",28.906,-89.429
+busl1,Bullwinkle Block 65,27.883,-90.9
+buzm3,"Buzzards Bay, MA",41.397,-71.033
+bvqw1,"Bayview Channel, Padilla Bay Reserve, WA",48.496,-122.501
+bwsf1,"Blackwater Sound, FL",25.178,-80.438
+bygl1,"8762482 - West Bank 1, Bayou Gauche, LA",29.789,-90.42
+bzbm3,"8447930 - Woods Hole, MA",41.524,-70.671
+bzst2,"8779749 - SPI Brazos Santiago, TX",26.067,-97.155
+c58w3,"Two Rivers CG Station, WI",44.146,-87.563
+camf1,"Campbell Park, FL",27.765,-82.649
+camm2,"8571892 - Cambridge, MD",38.574,-76.069
+canf1,"Cane Patch, FL",25.422,-80.942
+capl1,"8768094 - Calcasieu Pass, LA",29.768,-93.343
+carl1,"8761955 - Carrollton, LA",29.933,-90.135
+caro3,"Cape Arago, OR",43.342,-124.375
+casm1,"8418150 - Portland, ME",43.656,-70.246
+cavn6,"9052000 - Cape Vincent, NY",44.13,-76.333
+cbbv2,"8638863 - Chesapeake Bay Bridge Tunnel, VA",36.967,-76.114
+cbcm2,Curtis Bay Ch. Entrance (8574837),39.223,-76.54
+cbim2,Chesapeake Biological Laboratory Weather Station MD,38.317,-76.451
+cblo1,"Conneaut Breakwater Light, OH",41.981,-80.556
+cbrw3,"Chambers Island, WI",45.198,-87.36
+ccuf1,"8726413 - C-Cut, St. Petersburg, FL",27.663,-82.618
+cdcf1,8726504 - Cut D Channel Inbound Rear Range,27.754,-82.514
+cdea2,"Cape Decision, AK",56.001,-134.136
+cdrf1,"Cedar Key, FL",29.136,-83.029
+cdxa2,"Cape Decision MXAK, AK",56.001,-134.136
+cecc1,"9419750 - Crescent City, CA",41.746,-124.184
+cfwm1,"8411060 - Cutler Farris Wharf, ME",44.657,-67.205
+cgcl1,Cognac,28.791,-89.056
+chao3,"9432780 - Charleston, OR",43.351,-124.337
+chav3,"9751639 - Charlotte Amalie, VI",18.335,-64.92
+chbv2,"8638901 - Chesapeake Bay Bridge Tunnel, VA",37.032,-76.083
+chcm2,"8573927 - Chesapeake City, MD",39.527,-75.81
+chds1,"Strom Thurmond Dam, SC",33.661,-82.199
+chii2,"Harrison-Dever Crib, Chicago, IL",41.916,-87.572
+chlv2,"Chesapeake Light, VA",36.905,-75.713
+chno3,"South Slough Reserve, OR",43.345,-124.329
+chqo3,"Winchester Arm, South Slough Reserve, OR",43.282,-124.32
+chsv3,"9751364 - Christiansted Harbor, St. Croix, VI",17.748,-64.699
+chtm3,"8447435 - Chatham, MA",41.688,-69.95
+chts1,"8665530 - Charleston, Cooper River Entrance, SC",32.781,-79.924
+chyv2,"8638999 - Cape Henry, VA",36.926,-76.007
+chyw1,"9449424 - Cherry Point, WA",48.863,-122.759
+ckyf1,"8727520 - Cedar Key, FL",29.134,-83.031
+clbf1,"Clam Bayou, FL",27.736,-82.686
+clbp4,"9752235 - Culebra, PR",18.301,-65.302
+clkn7,"Cape Lookout, NC",34.611,-76.528
+cllt2,"8770933 - Clear Lake, TX",29.563,-95.067
+clsm4,"St. Clair Shores, MI",42.471,-82.877
+cman4,"8536110 - Cape May, NJ",38.968,-74.96
+cmln3,"Coastal Marine Lab, New Castle, NH",43.07,-70.7
+cmpo1,"Camp Perry, OH",41.547,-83.015
+cmti2,"9087044 - Calumet Harbor, IL",41.73,-87.538
+cnbf1,"Cannon Bay, FL",25.702,-81.186
+cndo1,"9063063 - Cleveland, OH",41.542,-81.637
+cnii2,"Northerly Isle, IL",41.856,-87.609
+covm2,"8577018 - Cove Point LNG Pier, MD",38.402,-76.385
+coxa2,"Cordova, AK",60.542,-145.766
+cpmw1,"9449419 - Cherry Point South Dock Met, WA",48.86,-122.756
+cpnt2,"8774513 - Copano Bay, TX",28.114,-97.024
+cpnw1,9449427 - Cherry Point North Dock Met,48.863,-122.758
+cpsa2,"Cape Seniavin, AK",56.397,-160.142
+cptr1,"8452944 - Conimicut Light, RI",41.717,-71.345
+cpvm2,"8575437 - Chesapeake Bay Bridge Visibility, MD",38.995,-76.388
+cpxa2,Captains Bay,53.843,-166.583
+cpxc1,"Cal Poly Pier, CA",35.17,-120.741
+cquc1,"Carquinez, CA",38.066,-122.23
+crga2,"Craig, AK",55.474,-133.136
+crta1,"Cedar Point, AL",30.308,-88.14
+crva2,"9454050 - Cordova, AK",60.558,-145.752
+cryv2,"8638595 - South Craney Island, VA",36.888,-76.338
+csbf1,"Cape San Blas, FL",29.672,-85.357
+csim3,Castle Island (NOS) 8444069,42.341,-71.012
+cspa2,"Cape Spencer, AK",58.199,-136.64
+csxa2,Cape Spencer WX,58.199,-136.641
+ctgm1,"8411250 - Cutler, ME",44.642,-67.297
+cvqv2,"Sweethall Pier, Chesapeake Bay Reserve, VA",37.571,-76.884
+cwaf1,"Clear Water Pass, FL",25.297,-81.013
+cwbf1,"8726724 - Clearwater Beach, FL",27.978,-82.832
+cwci,Caribou Island,47.334,-85.833
+cwqo3,"Charleston Bridge, South Slough Reserve, OR",43.338,-124.321
+cwqt2,"Copano Bay East, Mission-Aransas Reserve, TX",28.132,-97.034
+cwsec,Cold Weather SCOOP Environment Canada (CWSEC),44.233,-79.779
+cwssj,Cold Weather SCOOP St John's,47.513,-52.783
+cwwt2,"Copano Bay West, Mission-Aransas Reserve, TX",28.084,-97.201
+cxhn6,"Coxsackie, Hudson River (8518979)",42.353,-73.795
+cxlm2,Cooperative Oxford Laboratory,38.679,-76.174
+cygm4,"Cheboygan Marina, MI",45.658,-84.464
+darth,Test,30.357,-89.612
+darti,Test,30.357,-89.613
+dartj,Test,30.357,-89.613
+dartk,Test,30.357,-89.613
+dartl,Test,30.357,-89.613
+dartm,Test,30.357,-89.613
+dartn,Test,30.357,-89.613
+darto,Test,30.357,-89.613
+dartp,Test,30.357,-89.613
+dartq,Test,30.357,-89.613
+dartr,TEST,30.357,-89.612
+darts,TEST,30.357,-89.612
+dartt,TEST,30.357,-89.612
+dartu,TEST,30.357,-89.612
+dbln6,"Dunkirk, NY",42.493,-79.353
+dbqs1,"Debidue Creek, North Inlet-Winyah Bay, SC",33.36,-79.167
+dcxa2,Devils Cove,58.351,-154.127
+deld1,"8551762 - Delaware City, DE",39.582,-75.589
+demo2,NDBC Demo Glider #2,39.918,-71.94
+deqd1,"Lebanon Landing, Delaware Reserve, DE",39.114,-75.499
+desw1,"Destruction Island, WA",47.675,-124.485
+dhxa2,"Deadhorse, AK",70.222,-148.419
+dila1,"8735180 - Dauphin Island, AL",30.25,-88.075
+disw3,"Devils Island, WI",47.079,-90.728
+dkcm6,"8741501 - Dock C, Port of Pascagoula, MS",30.356,-88.567
+dkkf1,"Duck Key, FL",25.18,-80.49
+dmbc1,"Dumbarton Bridge at Newark, CA",37.507,-122.117
+dmno3,"Desdemona Sands Light, OR",46.226,-123.955
+dmsf1,"8720219 - Dames Point, FL",30.387,-81.559
+domv2,"8638511 - Dominion Terminal Associates, VA",36.962,-76.424
+dpha1,"Dauphin Island Sea Lab, AL",30.251,-88.078
+dpia1,"Dauphin Island, AL",30.25,-88.075
+dpla2,"Dutch Harbor APL, AK",53.884,-166.531
+dpoa2,"Dutch Harbor Port Office, AK",53.903,-166.528
+dpxa2,"Dutch Harbor Pilot Station, AK",53.889,-166.542
+dpxc1,"9415141 - Davis Point, San Pablo Bay, CA",38.056,-122.264
+drfa2,"Drift River Terminal, AK",60.553,-152.137
+drsd1,"Saint Jones River, Delaware Reserve, DE",39.089,-75.437
+dryf1,"Dry Tortugas, FL",24.638,-82.862
+dsln7,"Diamond Shls Lt., NC",35.153,-75.297
+dtlm4,"9075099 - De Tour Village, MI",45.993,-83.898
+ducn7,"Duck Pier, NC",36.184,-75.745
+dukn7,"8651370 - Duck Pier, NC",36.184,-75.746
+dulm5,"9099064 - Duluth, MN",46.776,-92.092
+eazc1,"Azevedo Pond, Elkhorn Slough Reserve, CA",36.846,-121.754
+eb01,,36.5,-73.5
+eb10,,27.5,-88.0
+eb31,,27.0,-86.0
+eb32,,27.0,-84.3
+eb33,,58.5,-141.0
+eb35,,55.3,-157.0
+eb36,,26.0,-84.8
+eb43,,59.8,-142.0
+eb52,,38.4,-74.3
+eb53,,28.9,-88.3
+eb61,,26.9,-84.6
+eb62,,29.0,-85.6
+eb70,,59.5,-142.3
+eb90,BERING SEA,47.0,-130.9
+eb91,,38.4,-74.3
+eb92,,28.5,-90.0
+ebef1,"8726674 - East Bay, FL",27.923,-82.421
+ebsw1,"9447130 - Seattle, WA",47.602,-122.338
+efla1,"8734536 - E Range Front Light Visibility, AL",30.429,-88.01
+egkf1,"EGK - Egmont Key, FL",27.601,-82.759
+ehsc1,"North Marsh, Elkhorn Slough Reserve, CA",36.835,-121.738
+einl1,"8764314 - North of Eugene Island, LA",29.373,-91.384
+elfa2,"9452634 - Elfin Cove, AK",58.193,-136.347
+elqc1,"South Marsh, Elkhorn Slough Reserve, CA",36.818,-121.739
+elxa2,Cape St. Elias,59.798,-144.6
+elxc1,"Caspian Weather Station, Elkhorn Slough Reserve, CA",36.815,-121.738
+emat2,"8773146 - Matagorda City, TX",28.71,-95.914
+eptt2,"8771013 - Eagle Point, TX",29.481,-94.917
+erep1,9063038 - Erie,42.172,-80.098
+erkc1,"Dock B Eureka, CA",40.778,-124.196
+eroa2,"Eldred Rock, AK",58.971,-135.221
+ertf1,"8726669 - Berth 223 Met, FL",27.92,-82.442
+erxa2,"Eldred Rock MXAK, AK",58.971,-135.221
+espp4,"9752695 - Esperanza, Viequez Island, PR",18.094,-65.471
+evmc1,"Vierra Mouth, Elkhorn Slough Reserve, CA",36.811,-121.779
+faio1,"9063053 - Fairport, OH",41.764,-81.281
+farp2,"Faraulep, Carolines Island",8.583,144.583
+fbis1,"Folly Island, SC",32.684,-79.887
+fbps1,"Folly Beach Pier, SC",32.652,-79.938
+fcgt2,"8772447 - USCG Freeport, TX",28.943,-95.302
+fffc1,"First Mallard, San Francisco Bay Reserve, CA",38.195,-122.033
+ffia2,"Five Fingers, AK",57.27,-133.631
+fgbl1,High Island 334,28.118,-93.67
+fhpf1,"FHP - Fred Howard Park, FL",28.153,-82.801
+fila2,"Flat Island Light, AK",59.331,-151.995
+flqn6,"Ferry Landing, Hudson River Reserve, NY",42.354,-73.789
+fmns1,"Fort Johnson, ACE Basin Reserve, SC",32.753,-79.899
+fmoa1,"8734673 - Fort Morgan, AL",30.228,-88.024
+fmrf1,"8725520 - Fort Myers, FL",26.647,-81.871
+foxr1,"8454000 - Providence, RI",41.807,-71.401
+fpkg1,"8670870 - Fort Pulaski, GA",32.035,-80.903
+fpsn7,"Frying Pan Shoals, NC",33.485,-77.59
+fpst2,"8772471 - Freeport SPIP, TX",28.936,-95.294
+fptm4,"Fairport, MI",45.619,-86.66
+fptt2,"8772440 - Freeport, TX",28.948,-95.308
+fpxc1,"Fort Point, CA",37.807,-122.466
+frcb6,"2695535 - Bermuda, Ferry Reach Channel, BM",32.37,-64.695
+frdf1,"8720030 - Fernandina Beach, FL",30.675,-81.465
+frdp4,"9753216 - Fajardo, PR",18.335,-65.631
+frdw1,"9449880 - Friday Harbor, WA",48.545,-123.012
+frel1,"8762484 - Frenier Landing, LA",30.106,-90.422
+frfn7,"USACE-CHL Field Research Facility, Duck, NC",36.19,-75.739
+frkf1,"Frog Creek, FL",27.591,-82.552
+frma1,"8734383 - Fort Morgan, AL",30.234,-87.994
+frps1,"8668498 - Fripps Inlet, SC",32.34,-80.46
+frvm3,"8447386 - Fall River, MA",41.704,-71.164
+frwl1,"8766072 - Freshwater Canal Locks, LA",29.552,-92.305
+frxm3,"8447412 - Fall River Visibility, MA",41.696,-71.18
+fskm2,"8574728 - Francis Scott Key Bridge, MD",39.219,-76.528
+fsnm2,"8574729 - Francis Scott Key Bridge NE Tower, MD",39.219,-76.525
+fsti2,"Foster Ave., Chicago, IL",41.976,-87.648
+ftgm4,"9014098 - Fort Gratiot, MI",43.007,-82.422
+ftpc1,"9414290 - San Francisco, CA",37.806,-122.466
+fwic3,"Fayerweather Island, CT",41.15,-73.172
+fwyf1,"Fowey Rock, FL",25.591,-80.097
+gbcl1,Garden Banks,27.8,-93.1
+gbcm6,"Bayou Cumbest, Grand Bay Reserve, MS",30.384,-88.436
+gbhm6,"Bayou Heron, Grand Bay Reserve, MS",30.418,-88.405
+gbif1,"Gunboat Island, FL",25.378,-81.029
+gblw3,"Green Bay Entrance Light, WI",44.653,-87.901
+gbqn3,"Lamprey River, Great Bay Reserve, NH",43.08,-70.934
+gbrm6,"Grand Bay NERR, Mississippi Sound, MS",30.413,-88.403
+gbtf1,"Garfield Bight, FL",25.167,-80.801
+gbww3,"9087077 - Green Bay West, WI",44.538,-88.003
+gbxa2,"Gambell, AK",63.777,-171.715
+gctf1,"8726524 - Gadsden Cut, Tampa Bay, FL",27.774,-82.517
+gcvf1,"8720503 - Red Bay Point, St. Johns River, FL",29.982,-81.634
+gdil1,"Grand Isle, LA",29.267,-89.957
+gdiv2,Goodwin Island Met Station,37.222,-76.404
+gdmm5,"9099090 - Grand Marais, MN",47.749,-90.341
+gdqm6,"Bangs Lake, Grand Bay Reserve, MS",30.357,-88.463
+gdwv2,"Goodwin Island, Chesapeake Bay Reserve, VA",37.216,-76.393
+gdxm6,"Crooked Bayou, Grand Bay Reserve, MS",30.359,-88.42
+gelo1,"Geneva on the Lake Light, OH",41.859,-80.975
+gexa2,"George Island, Alaska",58.213,-136.381
+gggc1,"Gallinas Creek, San Francisco Bay Reserve, CA",38.016,-122.509
+gisl1,"8761724 - Grand Isle, LA",29.265,-89.958
+gixa2,"Guard Island, AK",55.446,-131.881
+gkyf1,"Garden Key, FL",24.627,-82.872
+glln6,"Galloo Island, NY",43.89,-76.45
+glpt2,021: Galveston Pleasure Pier; Gulf of America,29.3,-94.794
+gnjt2,"8771341 - Galveston Bay Entrance (North Jetty), TX",29.357,-94.725
+gom01,Mississippi State University Wave Glider - GOM01,24.899,-83.868
+gpom6,"8744707 - Gulfport Outer Range, MS",30.23,-88.982
+gpst2,"8771510 - Galveston Pleasure Pier, TX",29.285,-94.788
+gptw1,"Grays Point, WA",46.273,-123.767
+gpxa2,"Grave Point, AK",58.062,-134.051
+grbl1,"Grand Isle Blocks, LA / CSI09",29.101,-89.978
+grcm4,GLRC Observatory,47.121,-88.545
+grim4,"Granite Island, MI",46.721,-87.412
+grmm4,"Grand Marais, MI",46.684,-85.972
+grrt2,"8771486 - Galveston RR Bridge, TX",29.302,-94.896
+gslm4,"Gravelly Shoal Light, MI",44.018,-83.537
+gtbm4,Grand Traverse Bay Observing System Station 2,44.767,-85.607
+gtlm4,"Grand Traverse Light, MI",45.211,-85.55
+gtot2,"8771450 - Galveston Pier 21, TX",29.311,-94.792
+gtqf1,"Pellicer Creek, Guan Tolomato Matanzas Reserve, FL",29.667,-81.257
+gtrm4,"Superior Grand Traverse Bay, MI",47.179,-88.241
+gtxf1,"Pellicer Creek, Guana Tolomato Matanzas Reserve, FL",29.658,-81.233
+guxa2,"Gustavus Dock, AK",58.408,-135.726
+gwpm6,"8745651 - West Pier, Gulfport, MS",30.348,-89.087
+haxa2,"Haines Harbor, AK",59.234,-135.442
+hbmn6,"Bear Mountain, Hudson River Reserve, NY",41.314,-73.985
+hbxc1,"Humboldt, CA",40.777,-124.197
+hbyc1,"9418767 - North Spit, CA",40.767,-124.217
+hcef1,"Highway Creek, FL",25.254,-80.444
+hcgn7,"8654467 - USCG Station Hatteras, NC",35.209,-75.704
+hhlo1,"Huron Harbor Light, OH",41.401,-82.545
+hist2,"8770808 - High Island, TX",29.595,-94.39
+hivt2,"8775223 - Harbor Island Visibility, TX",27.844,-97.07
+hlnm4,"9087031 - Holland, MI",42.773,-86.213
+hmdo3,"9439011 - Hammond NMFS Pier, OR",46.204,-123.951
+hmno3,"Hammond Tide Gauge, OR",46.203,-123.952
+hmra2,"Homer, Kachemak Bay Reserve, AK",59.601,-151.41
+hmsa2,"Homer Spit, AK",59.602,-151.417
+hplm2,Horn Point Weather Station MD,38.59,-76.133
+hrbm4,"9075014 - Harbor Beach, MI",43.846,-82.643
+href1,"Harney River, FL",25.424,-81.06
+hrrh1,"Lono Circle, He'eia Reserve, HI",21.431,-157.815
+hrvc1,"9411406 - Harvest Oil Platform, CA",34.469,-120.682
+hssf1,"HOM - Homosassa, FL",28.772,-82.707
+huqn6,"Tivoli North, Hudson River Reserve, NY",42.036,-73.925
+hwpm2,8574731 - Hawkins Point,39.214,-76.532
+hwwh1,"Wai 2, He'eia Reserve, HI",21.438,-157.811
+icac1,9410840 - Santa Monica Pier,34.008,-118.5
+icya2,"Icy Bay, AK",59.923,-141.359
+iiwc1,"9410172 - USS Midway South Navy Pier, San Diego, CA",32.714,-117.177
+ildl1,"Isle Dernieres, LA / CSI05",29.053,-90.533
+iloh1,"1617760 - Hilo, HI",19.73,-155.056
+imgp4,"Isla Magueyes, Lajas, PR",17.969,-67.044
+iosn3,"Isle of Shoals, NH",42.967,-70.623
+irdt2,"8776139 - South Bird Island, TX",27.48,-97.322
+itka2,"9451600 - Sitka, AK",57.052,-135.342
+jaki2,"63rd St., Chicago, IL",41.781,-87.573
+jbyf1,"Joe Bay, FL",25.224,-80.541
+jcqn4,"Chestnut Neck, Jacques Cousteau Reserve, NJ",39.548,-74.461
+jcrn4,"Nacote Creek, Jacques Cousteau Reserve, NJ",39.535,-74.464
+jctn4,"Buoy 126, Jacques Cousteau Reserve, NJ",39.508,-74.338
+jkyf1,"Johnson Key, FL",25.053,-80.904
+jlxa2,"Juneau Library, AK",58.298,-134.405
+jmla2,Juneau AML Dock,58.286,-134.39
+jmpn7,"8658163 - Wrightsville Beach, NC",34.213,-77.786
+jnea2,"9452210 - Juneau, AK",58.298,-134.411
+jnga2,"Juneau ANG Dock, AK",58.291,-134.394
+jobp4,"Station 9, Jobos Bay Reserve, PR",17.944,-66.238
+joqp4,"Station 20, Jobos Bay Reserve, PR",17.93,-66.211
+joxp4,"Jobos Bay Weather, Jobos Bay Reserve, PR",17.956,-66.223
+jprn7,"Jennette's Pier, Nags Head, NC",35.912,-75.587
+jtaw1,"Jetty A, USCG Station Disappointment",46.266,-124.038
+jxuf1,"8720245 - Jacksonville University, FL",30.354,-81.612
+kata1,"Katrina Cut, AL",30.258,-88.213
+katp,Green Canyon 787 / Atlantis (BP),27.195,-90.027
+kbbf,Brazos 133B (Apache Corp),28.058,-95.872
+kbmg1,"8679598 - Kings Bay MSF Pier, GA",30.777,-81.487
+kbqx,Brazos 538 (Transco),28.314,-95.62
+kcha2,"Homer Dolphin Deep, Kachemak Bay Reserve, AK",59.602,-151.409
+kcmb,East Cameron 47JP (Apache Corp),29.441,-92.979
+kcrh,West Cameron 368A (Century Exploration),28.909,-93.302
+kcvw,"Cameron, LA (PHI)",29.784,-93.3
+kcxa2,King Cove,55.057,-162.326
+kdaa2,"9457292 - Kodiak Island, AK",57.731,-152.511
+kdlp,West Delta 27A (AngloSuisse Offshore Partners),29.121,-89.547
+keca2,"9450460 - Ketchikan, AK",55.331,-131.625
+kehc,East Cameron 278B (Apache Corp),28.429,-92.878
+keir,Eugene Island 215 (McMoRan Oil & Gas),28.634,-91.489
+kemk,East Breaks 165 (SandRidge Energy),27.819,-94.323
+kexa2,"Ketchikan Harbor, AK",55.352,-131.684
+kgbk,Garden Banks 783 / Magnolia TLP (W&T Offshore),27.204,-92.203
+kgca2,"9459881 - King Cove, AK",55.062,-162.327
+kghb,Garden Banks 172 / Salsa (Shell E & P),27.84,-91.988
+kgna,"Bay of Grand Marais, MN",47.745,-90.346
+kgry,Green Canyon 338 / Front Runner (Murphy E&P),27.625,-90.441
+kgul,Garden Banks 668 / Gunnison Spar (Anadarko),27.304,-93.538
+kgvw,Galveston 209A (Arena Offshore),29.13,-94.55
+kgvx,Galveston 424C (Nippon Oil Exploration),28.577,-94.976
+kgxa2,"Kodiak Gull Island, AK",57.777,-152.425
+khhv,Alaminos Canyon 25 / Hoover-Diana (ExxonMobile Corp),26.939,-94.689
+khqi,High Island 376B (Apache),27.934,-93.669
+kikt,Mississippi Canyon 474 / Na Kika FPU (BP),28.521,-88.289
+kipn,Mississippi Canyon 920 / Independence Hub (Anadarko / Enterprise),28.085,-87.986
+klih1,"1615680 - Kahului, Kahului Harbor, HI",20.895,-156.469
+klmw1,"9440357 - TEMCO Kalama Terminal, WA",45.983,-122.835
+kmdj,Mississippi Canyon 311A (Apache Corp),28.643,-89.794
+kmis,MP 140B  AWOS (Apache Corp),29.296,-88.842
+kmiu,Mustang Island A31B (Merit Energy),27.289,-96.736
+kmxa2,"Kodiak Matson Crane, AK",57.782,-152.439
+kmyt,Mississippi Canyon 711 / ATP Innovator (ATP Oil & Gas),28.221,-89.615
+kmzg,Mustang Island A85A (Apache Corp),27.727,-96.191
+knoh1,"Kilo Nalu Observatory, Hawaii",21.288,-157.865
+knsw3,"Kenosha Light, Kenosha, WI",42.589,-87.809
+knxa2,"Kenai, AK",60.552,-151.274
+kopm,North Padre Island 975 (Peregrine Oil & Gas),26.833,-96.94
+koza2,"KOTZEBUE MXAK, AK",66.901,-162.589
+kp53,"Munising Lake Shore, MI",46.417,-86.65
+kp58,"Port Hope, MI",44.017,-82.8
+kp59,"Copper Harbor, MI",47.467,-87.883
+kptn6,"8516945 - Kings Point, NY",40.811,-73.765
+kptv2,"8632200 - Kiptopeke, VA",37.165,-75.988
+kscf,South Marsh 268A (Apache Corp),29.116,-91.871
+kspr,Ship Shoal 178 (Apache Corp),28.599,-91.206
+ksqe,Ship Shoal 354 (Fieldwood Energy),28.083,-90.819
+kstz,South Timballer 301B / Popeye  (Shell E & P),28.16,-90.666
+ktnf1,"Keaton Beach, FL",29.819,-83.593
+kvaf,East Breaks 643 / Boomvang Spar (Anadarko),27.354,-94.625
+kvbs,Sabine Pass 13B (Nippon Oil Exploration),29.478,-93.638
+kvky,Main Pass 289C (Apache Corp.),29.248,-88.441
+kvnp,Vermillion 26 (Mariner Energy),29.467,-92.368
+kvoa,Viosca Knoll 786 / Petronius (Chevron),29.229,-87.781
+kvqt,Vermillon 331A  (ERT / Helix),28.27,-92.264
+kwhh1,"1617433 - Kawaihae, HI",20.037,-155.829
+kwjp8,"1820000 - Kwajalein, Marshall Islands",8.732,167.734
+kwnw3,"9087069 - Kewaunee MET, WI",44.465,-87.496
+kxih,High Island 179A AWOS (Apache Corp),29.18,-94.521
+kxpy,Port Fourchon Heliport (Era Helicopters),29.123,-90.202
+kywf1,"8724580 - Key West, FL",24.556,-81.808
+labl1,"8762372 - East Bank 1, Bayou LaBranch, LA",30.05,-90.368
+lamv3,"9751381 - Lameshur Bay, St John, VI",18.318,-64.724
+lapw1,"9442396 - La Push, WA",47.913,-124.637
+lbrf1,"Broad River Lower, FL",25.484,-81.133
+lbsf1,"Little Blackwater, FL",25.214,-80.432
+lciy2,"Little Cayman Research Centre, Cayman Islands",19.699,-80.06
+lcll1,"8767816 - Lake Charles, LA",30.224,-93.222
+lcna2,"Lincoln Island, AK",56.058,-132.69
+ldlc3,"New London Ledge Light, New London Harbor, CT",41.306,-72.077
+ldtm4,"9087023 - Ludington, MI",43.947,-86.441
+lixa2,"Little Island, AK",58.54,-135.047
+ljac1,"9410230 - La Jolla, CA",32.867,-117.257
+ljpc1,"La Jolla, CA (073)",32.867,-117.257
+lkpl1,"Western Lake Pontchartrain, LA",30.315,-90.281
+lkwf1,"8722670 - Lake Worth Pier, FL",26.613,-80.034
+llbp7,"Lao Lao Bay, Saipan, CNMI",15.157,145.77
+lmbv4,"La Mancha Beach, Mexico",19.594,-96.379
+lmdf1,"Little Madeira, FL",25.176,-80.633
+lmfs1,Lake Murray SC,34.107,-81.271
+lmrf1,"Lostmans River, FL",25.556,-81.169
+lmss1,"Lake Marion, SC",33.552,-80.501
+lndc1,"9414763 - Oakland Berth 67, CA",37.795,-122.281
+lnel1,Lena,28.2,-89.1
+lonf1,"Long Key, FL",24.844,-80.864
+lopl1,"Louisiana Offshore Oil Port, LA",28.885,-90.025
+lopw1,"9440422 - Longview, WA",46.106,-122.954
+loro1,"Lorain Harbor, OH",41.481,-82.195
+lpnm4,"9075065 - Alpena, MI",45.063,-83.429
+lpoi1,"Lake Pend Oreille, ID",48.06,-116.5
+lprp4,"Media Luna, La Parguera, PR",17.939,-67.052
+lpwa2,"Little Port Walter, AK",56.388,-134.637
+lqat2,"La Quinta, TX  MET (8775132)",27.881,-97.285
+lrif1,"Lane River, FL",25.284,-80.894
+lrkf1,"Little Rabbit Key, FL",24.982,-80.826
+lscm4,"Lake St. Clair Light, MI",42.465,-82.755
+lsio3,"Lower Sand Island Light, OR",46.256,-123.982
+lsnf1,"Long Sound, FL",25.235,-80.457
+ltbv3,"9751401 - Lime Tree Bay, St. Croix, VI",17.695,-64.754
+ltjf1,"8720228 - Little Jetties, St. Johns River, FL",30.379,-81.446
+ltqm2,"Otter Point Creek, Chesapeake Bay Reserve, MD",39.451,-76.275
+ltrm4,"9076033 - Little Rapids, MI",46.486,-84.302
+luit2,"8771972 - San Luis Pass, TX",29.076,-95.122
+luml1,"LUMCON Marine Center, LA",29.255,-90.664
+lwsd1,"8557380 - Lewes, DE",38.783,-75.119
+lwtv2,"8635750 - Lewisetta, VA",37.995,-76.465
+lybt2,"8770733 - Lynchburg Landing, TX",29.765,-95.079
+macm4,"9075080 - Mackinaw City, MI",45.777,-84.721
+maqt2,"Aransas Bay, Mission-Aransas Reserve, TX",27.98,-97.029
+maxt2,"Copano East, Mission-Aransas Reserve, TX",28.132,-97.034
+mbet2,"8773767 - Matagorda Bay Entrance Channel, TX",28.422,-96.327
+mbin7,"Masonboro Island, NC (MSNB_S)",34.091,-77.868
+mbla1,"Middle Bay Lighthouse, AL",30.437,-88.011
+mbnn7,"Masonboro Island, NC (MSNB_N)",34.171,-77.824
+mbpa1,"8736163 - Middle Bay Port, Mobile Bay, AL",30.527,-88.086
+mbrm4,"9014090 - Mouth of the Black River, MI",42.975,-82.419
+mbxc1,"Morro Bay - BM1 T-Pier, CA",35.371,-120.859
+mcga1,"8736897 - Coast Guard Sector Mobile, AL",30.649,-88.058
+mcgm4,"9099018 - Marquette C.G., MI",46.546,-87.379
+mcyf1,"8726667 - McKay Bay Entrance, FL",27.914,-82.425
+mcyi3,"Michigan City Harbor Entrance Light, Michigan City, IN",41.729,-86.912
+mdkf1,"Middle Key, FL",25.289,-80.396
+mdrm1,"Mt. Desert Rock, ME",43.969,-68.128
+mdxa2,"Middleton Island, AK",59.438,-146.327
+meem4,"Manistee Harbor, MI",44.251,-86.342
+meyc1,"9413450 - Monterey, CA",36.605,-121.889
+mgip4,"9759110 - Magueyes Islands, PR",17.97,-67.046
+mgpt2,"8770613 - Morgans Point, TX",29.682,-94.985
+mgzp4,"9759394 - Mayaguez, PR",18.218,-67.159
+mhbt2,"8775283 - Enbridge, Ingleside, TX",27.828,-97.201
+mhpa1,"Meaher Park, AL",30.667,-87.936
+mhrn6,"8519532 - Mariners Harbor, NY",40.641,-74.162
+misc3,"North Middle Sound, CT",41.074,-73.134
+mism1,"Matinicus Rock, ME",43.784,-68.855
+misn6,"South Middle Sound, NY",41.049,-73.121
+misp4,"9759938 - Mona Island, PR",18.09,-67.939
+mist2,"Ship Channel, Mission-Aransas Reserve, TX",27.838,-97.05
+mixa2,"Midway Island, AK",57.837,-133.814
+mkgm4,"Muskegon CG Station, Muskegon, MI",43.228,-86.339
+mlrf1,"Molasses Reef, FL",25.012,-80.376
+mlsc1,"Moss Landing, South Harbor, CA",36.802,-121.791
+mlto3,"Marsh Island, OR",46.214,-123.62
+mlww3,Port of Milwaukee,43.005,-87.884
+mnbf1,"Manatee Bay, FL",25.239,-80.422
+mnmm4,"9087088 - Menominee, MI",45.096,-87.59
+mnpv2,"8639348 - Money Point, VA",36.778,-76.302
+mokh1,"1612480 - Mokuoloe, HI",21.433,-157.79
+mpcl1,Main Pass,29.4,-88.6
+mqmt2,"Mesquite Bay, Mission-Aransas Reserve, TX",28.138,-96.829
+mqtt2,"8775870 - Bob Hall Pier, Corpus Christi, TX",27.581,-97.217
+mrcp1,"8540433 - Marcus Hook, PA",39.809,-75.415
+mrho1,"9063079 - Marblehead, OH",41.544,-82.731
+mrka2,"Middle Rock Light, AK",61.081,-146.653
+mrna2,"Marmion Island, AK",58.198,-134.257
+mros1,"8661070 - Springmaid Pier, SC",33.656,-78.916
+mrsl1,"Marsh Island, LA / CSI03",29.441,-92.061
+mrya2,"Mary Island, AK",55.099,-131.182
+msg10,Mississippi State University Wave Glider - MSG10,28.184,-83.956
+msg12,Mississippi State University Wave Glider - MSG12,26.006,-83.991
+msg14,Mississippi State University Wave Glider - MSG14,27.487,-83.987
+mtbf1,"8726412 - Middle Tampa Bay, FL",27.661,-82.594
+mtkn6,"8510560 - Montauk, NY",41.048,-71.959
+mtyc1,"9413450 - Monterey, CA",36.605,-121.889
+mukf1,"Murray Key, FL",25.106,-80.942
+mvxa2,"Mendenhall Valley, AK",58.364,-134.606
+mwqt2,"Ship Channel, Mission-Aransas Reserve, TX",27.838,-97.05
+mxxa2,"MXAK Office, AK",58.301,-134.425
+mypf1,"8720218 - Mayport (Bar Pilots Dock), FL",30.398,-81.428
+myxc1,"Monterrey, CA",36.605,-121.889
+mzxc1,"9415102 - Martinez-Amorco Pier, CA",38.035,-122.125
+nabm4,"Naubinway, MI",46.087,-85.444
+naqr1,"T-Wharf Bottom, Narragansett Bay Reserve, RI",41.578,-71.321
+naxr1,"Potters Cove, Narragansett Bay Reserve, RI",41.637,-71.339
+nbba3,Lake Mead - North Boulder Basin,36.087,-114.728
+nbgm3,"8447627 - New Bedford, Barrier Gate, MA",41.624,-70.906
+nblp1,"8548989 - Newbold, PA",40.137,-74.752
+ncdv2,"8635027 - Dahlgren, VA",38.32,-77.037
+ncht2,"8770777 - Manchester, TX",29.726,-95.266
+ncsc3,"North Central Sound, CT",41.099,-73.147
+ndbc1,NDBC Glider #1,12.5,-155.167
+ndbc2,NDBC Glider #2,27.5,-84.5
+neaw1,"9443090 - Neah Bay, WA",48.367,-124.614
+nfbf1,"NFB - Northwest Florida Bay, FL",25.084,-81.096
+nfdf1,"8720215 - Navy Fuel Depot, St Johns River, FL",30.4,-81.627
+nglt2,"8775283 - Port Ingleside, TX",27.822,-97.204
+nian6,"9063012 - Niagara Intake, NY",43.077,-79.014
+niqs1,"Oyster Landing, North Inlet-Winyah Bay Reserve, SC",33.349,-79.189
+niws1,"Oyster Landing, North Inlet-Winyah Bay Reserve, SC",33.349,-79.189
+njlc1,"9418768 - North Jetty Landing, CA",40.769,-124.239
+nkla2,Nikolski White Alice,52.972,-168.855
+nkta2,"9455760 - Nikiski, AK",60.683,-151.399
+nkxa2,"Naked Island, AK",58.255,-134.945
+nlec1,"San Leandro Marina, CA",37.696,-122.192
+nlhc3,"8461490 - New London, CT",41.372,-72.096
+nlma3,Lake Mohave - North,35.458,-114.666
+nlnc3,"8461490 - New London, CT",41.361,-72.09
+nlxa2,"Nelson Lagoon, AK",56.005,-161.177
+nmta2,"9468756 - Nome, Norton Sound, AK",64.5,-165.43
+nmxa2,"Nome, AK",64.494,-165.44
+noqn7,"Research Creek, North Carolina Reserve, NC",34.156,-77.85
+nosc3,"Northern Open Sound, CT",41.125,-73.159
+noxn7,"Research Creek, North Carolina Reserve, NC",34.155,-77.851
+npdw3,"Northport Pier at Death's Door, WI",45.291,-86.977
+npqc1,"South Bay, Tijuana River Reserve, CA",32.601,-117.116
+npqn6,"Norrie Point, Hudson River Reserve, NY",41.832,-73.942
+npsf1,"8725110 - Naples, FL",26.132,-81.807
+npxn6,"Norrie Point, Hudson River Reserve, NY",41.831,-73.942
+nrep1,"Northeast Marina, PA",42.258,-79.792
+nrrf1,"North River, FL",25.338,-80.911
+nstp6,"1770000 - Pago Pago, American Samoa",-14.28,-170.688
+nsxa2,"Nikiski, AK",60.74,-151.311
+ntbc1,"9411340 - Santa Barbara, CA",34.405,-119.692
+ntkm3,"8449130 - Nantucket Island, MA",41.285,-70.096
+nuet2,"8775244 - Nueces Bay, TX",27.832,-97.486
+nwcl1,"8761927 - New Canal Station, LA",30.027,-90.113
+nwhc3,"8465705 - New Haven, CT",41.283,-72.908
+nwpo3,"Newport, OR",44.613,-124.067
+nwpr1,"8452660 - Newport, RI",41.504,-71.326
+nwst2,098: NWS Weather Station 1; Gulf of America,27.75,-96.768
+nwwh1,"1611400 - Nawiliwili, HI",21.954,-159.353
+obgn6,"8311030 - Ogdensburg, NY",44.702,-75.494
+obla1,"8737048 - Mobile State Docks, AL",30.705,-88.04
+obxc1,"9414797 - Oakland Berth 38, CA",37.804,-122.341
+ocgn4,"Ocean Grove, NJ",40.209,-74.004
+ocim2,"8570283 - Ocean City Inlet, MD",38.328,-75.091
+ocpn7,"OCP1 - Ocean Crest Pier, NC",33.911,-78.147
+ocsm2,"Ocean City, MD",38.338,-75.07
+ofpn6,"Old Field Island, NY",40.973,-73.083
+ohbc1,"9410660 - Los Angeles, CA",33.72,-118.273
+oksi2,"Oak St., Chicago, IL",41.912,-87.624
+okxc1,"9414776 - Oakland Berth 34, CA",37.811,-122.333
+olcn6,"Olcott Harbor, NY",43.341,-78.719
+olsa2,"9462450 - Nikolski, AK",52.94,-168.87
+omhc1,"9414769 - Oakland Middle Harbor Met, CA",37.801,-122.33
+oouh1,"1612340 - Honolulu, HI",21.303,-157.865
+optf1,"8726607 - Old Port Tampa, FL",27.858,-82.553
+orin7,"8652587 - Oregon Inlet Marina, NC",35.796,-75.548
+osgn6,"9052030 - Oswego, NY",43.464,-76.511
+ostf1,Stennis Test Facility,30.357,-89.612
+otnm4,"Ontonagon, MI",46.87,-89.33
+ovia2,"9455500 - Seldovia, AK",59.44,-151.72
+owdo1,"Darrow Road, Old Woman Creek Reserve, OH",41.365,-82.505
+owmo1,"Western Reserve, Old Woman Creek Reserve, OH",41.247,-82.454
+owqo1,"Lower Estuary, Old Woman Creek Reserve, OH",41.382,-82.514
+owso1,"State Road 6, Old Woman Creek Reserve, OH",41.383,-82.514
+owwo1,"Railroad, Old Woman Creek Reserve, OH",41.373,-82.513
+owxo1,"Old Woman Creek, Old Woman Creek Reserve, OH",41.378,-82.508
+pacf1,"8729108 - Panama City, FL",30.15,-85.664
+pact2,"8775792 - Packery Channel, TX",27.634,-97.237
+paua2,"ST PAUL MXAK, AK",57.124,-170.271
+paxa2,"Point Arden, AK",58.159,-134.178
+pbfw1,"Padilla Bay Farm, Padilla Bay Reserve, WA",48.464,-122.469
+pbjw1,"Joe Leary Tidegate, Padilla Bay Reserve, WA",48.518,-122.474
+pblw1,"Ploeg Channel, Padilla Bay Reserve, WA",48.556,-122.53
+pbpa2,"Point Bishop, AK",58.203,-134.148
+pbwm4,"9014095 - Port Huron, North of Blue Water Bridge, MI",43.002,-82.423
+pcbf1,"8729210 - Panama City Beach, FL",30.213,-85.88
+pcgt2,"8779748 - South Padre Island CGS, TX",26.072,-97.167
+pclf1,"8729840 - Pensacola, FL",30.404,-87.211
+pclm4,"Portage Canal, MI",47.276,-88.528
+pcnt2,"8773701 - Port O'Connor, Matagorda Bay, TX",28.446,-96.396
+pcoc1,"9415144 - Port Chicago, CA",38.056,-122.039
+pcxa2,"Point Craven MXAK, AK",57.463,-134.867
+pdvr1,"8454123 - Port of Davisville, RI",41.611,-71.41
+pegf1,"8722956 - Port Everglades, FL",26.086,-80.116
+pexa2,"Pelican MXAK, AK",57.958,-136.227
+pfdc1,"9410666 - Los Angeles Pier 400, CA",33.735,-118.241
+pfxc1,"9410670 - Los Angeles Pier F, CA",33.747,-118.215
+pgbp7,"1631428 - Pago Bay, Guam",13.428,144.796
+pgxa2,Point Gardner,57.016,-134.618
+phbp1,"8545240 - Philadelphia, PA",39.933,-75.142
+pila2,"Pilot Rock, AK",59.742,-149.47
+pill1,"8760721 - Pilottown, LA",29.179,-89.259
+pilm4,"Passage Island, MI",48.223,-88.366
+pkbw3,"Pokegama Bay, Lake Superior Reserve, WI",46.672,-92.136
+pkyf1,"Peterson Key, FL",24.918,-80.747
+plsf1,"Pulaski Shoals Light, FL",24.693,-82.773
+plsp4,"9758053 - Penuelas, PR",17.973,-66.762
+plxa2,"9451054 - Port Alexander, AK",56.247,-134.647
+pmaf1,"8726384 - Port Manatee, FL",27.638,-82.562
+pmnt2,"8778490 - Port Mansfield, TX",26.559,-97.424
+pmoa2,"9463502 - Port Moller, AK",55.99,-160.562
+pngw3,"Port Wing, WI",46.792,-91.386
+pnlm4,"9087096 - Port Inland, MI",45.968,-85.869
+pnlm6,"8741533 - Pascagoula NOAA Lab, MS",30.368,-88.563
+pnos1,"Lake Moultrie at Pinopolis, SC",33.247,-80.033
+poro3,"9431647 - Port Orford, OR",42.739,-124.498
+port2,"8770475 - Port Arthur, TX",29.867,-93.931
+pota2,"Potato Point, AK",61.056,-146.697
+pphh1,"Papahana, He'eia Reserve, HI",21.409,-157.823
+ppta1,"Perdido Pass, AL",30.279,-87.556
+pptm2,"8578240 - Piney Point, MD",38.134,-76.533
+ppxa2,Point Pigot,60.801,-148.357
+ppxc1,"9414847 - Point Potrero, Richmond, CA",37.906,-122.365
+prda2,"9497645 - Prudhoe Bay, AK",70.4,-148.527
+prhh1,"1612401 - Pearl Harbor, HI",21.367,-157.964
+prim4,"Presque Isle Light, MI",45.357,-83.492
+prjc1,"9410665 - Los Angeles Pier J, CA",33.733,-118.186
+prta2,"Point Retreat, AK",58.411,-134.955
+prto3,SATURN River Station #06 at Portland,45.518,-122.669
+prur1,"8452314 - Sandy Point, Prudence Island, RI",41.605,-71.304
+pryc1,"9415020 - Point Reyes, CA",37.996,-122.977
+psbc1,"9415115 - Pittsburg (Suisun Bay), CA",38.04,-121.887
+psbm1,"8410140 - Eastport, ME",44.905,-66.983
+pscm4,"Port Sanilac, MI",43.42,-82.54
+pslc1,"9412110 - Port San Luis, CA",35.169,-120.754
+pstl1,"8760922 - Pilot's Station East, SW Pass, LA",28.932,-89.407
+pstn6,"9063028 - Sturgeon Point, NY",42.691,-79.048
+psxc1,9410692 - Los Angeles Pier S,33.768,-118.226
+ptac1,"Point Arena, CA",38.955,-123.741
+ptat2,"Port Aransas, TX",27.826,-97.051
+ptaw1,"9444090 - Port Angeles, WA",48.125,-123.441
+ptbm6,"8741003 - Petit Bois Island, Port of Pascagoula, MS",30.213,-88.505
+ptcr1,"8452951 - Potter Cove, Prudence Island, RI",41.638,-71.34
+ptfl1,"8762075 - Port Fourchon, LA",29.114,-90.199
+ptgc1,"Point Arguello, CA",34.577,-120.648
+ptim4,"9099004 - Point Iroquois, MI",46.485,-84.631
+ptit2,"8779770 - Port Isabel, TX",26.061,-97.215
+ptjn6,"Port Jefferson, NY",40.948,-73.07
+ptla2,"Portland Island, AK",58.346,-134.752
+ptoa1,"8737005 - Pinto Island, AL",30.671,-88.031
+ptrf1,"PAS -Port Richey, FL",28.285,-82.733
+ptrp4,"Puntas Rincon, PR",18.367,-67.251
+ptww1,"9444900 - Port Townsend, WA",48.111,-122.76
+pvdr1,"8453662 - Providence Visibility, RI",41.786,-71.383
+pvgf1,"Port Everglades Channel, FL",26.092,-80.109
+pwaw3,"Port Washington, WI",43.388,-87.867
+pxac1,"9410690 - Los Angeles Berth 161, CA",33.764,-118.265
+pxoc1,"9414311 - San Francisco Pier 1, CA",37.798,-122.393
+pxsc1,"9414296 - Pier 17, San Francisco Bay, CA",37.803,-122.397
+qptr1,"8454049 - Quonset Point, RI",41.586,-71.407
+rarm6,"8741094 - Range A Rear, Port of Pascagoula, MS",30.343,-88.511
+rckm4,"9076024 - Rock Cut, MI",46.264,-84.191
+rcmc1,"9414863 - Richmond, CA",37.923,-122.41
+rcpt2,"8774770 - Rockport, TX",28.024,-97.048
+rcrn6,"9052058 - Rochester, NY",43.269,-77.626
+rcyf1,"8720625 - Racy Point, St. Johns River, FL",29.8,-81.55
+rdda2,"9491094 - Red Dog Dock, AK",67.575,-164.067
+rdyd1,"8551910 - Reedy Point, DE",39.558,-75.572
+rixa2,"Rocky Island, AK",58.177,-135.052
+rkqf1,"Lower Henderson Creek, Rookery Bay Reserve, FL",26.027,-81.734
+rkxf1,"Upper Henderson Creek, Rookery Bay Reserve, FL",26.05,-81.701
+rlit2,"8779280 - Realitos Peninsula, TX",26.262,-97.285
+rlot2,"8770971 - Rollover Pass, TX",29.515,-94.513
+roam4,"Rock of Ages, MI",47.867,-89.315
+robn4,"8530973 - Robbins Reef, NJ",40.657,-74.065
+rplv2,"8632837 - Rappahannock Light, VA",37.538,-76.014
+rprn6,"Rochester Coast Guard, NY",43.263,-77.598
+rsjt2,"8777812 - Rincon del San Jose, TX",26.801,-97.471
+rtat2,"8775237 - Port Aransas, TX",27.84,-97.072
+rtot2,"100: RTNS Offshore, TX",27.753,-96.967
+rtyc1,"9414523 - Redwood City, CA",37.507,-122.212
+ryec1,"Second Mallard, San Francisco Bay Reserve, CA",38.184,-122.014
+sacv4,"Sacrifice Island, Mexico",19.174,-96.093
+sanf1,"Sand Key, FL",24.456,-81.877
+sapf1,"8726520 - St. Petersburg, Tampa Bay, FL",27.761,-82.627
+saqg1,"Lower Duplin, Sapelo Island Reserve, GA",31.418,-81.296
+sauf1,"St. Augustine, FL",29.857,-81.264
+saxg1,"Marsh Island, Sapelo Island Reserve, GA",31.418,-81.296
+sbbn2,Lake Mead - South Boulder Basin,36.05,-114.748
+sbeo3,"9435380 - South Beach, OR",44.625,-124.045
+sbio1,"South Bass Island, OH",41.629,-82.841
+sblf1,"8726673 - Seabulk, Tampa, FL",27.923,-82.445
+sblm4,"Saginaw Bay Light #1, MI",43.81,-83.72
+sbpt2,"8770570 - Sabine Pass North, TX",29.728,-93.87
+scis1,"8664941 - South Capers Island, SC",32.857,-79.707
+scld1,"Scotton Landing, Delaware Reserve, DE",39.085,-75.461
+scp02,NDBC/OPT Engineering Test Station,39.476,-74.214
+scqc1,"China Camp, San Francisco Bay Reserve, CA",38.001,-122.46
+scqn6,"Stony Creek, Hudson River Reserve, NY",42.046,-73.911
+scsn6,"South Central Sound, NY",41.024,-73.108
+scxa2,"Scull Island, AK",58.205,-134.646
+sdbc1,"9410170 - San Diego, CA",32.714,-117.174
+sdhn4,"8531680 - Sandy Hook, NJ",40.467,-74.009
+sdia2,"South Douglas, AK",58.277,-134.389
+sdrt2,"8773037 - Seadrift, TX",28.407,-96.712
+secg1,U.S. Navy Tower R4 GA,30.8,-80.316
+sefo3,SATURN Estuary Station #04 at Mott Basin,46.204,-123.759
+seim1,"8419870 - Seavey Island, ME",43.08,-70.742
+seqa2,"Seldovia Deep, Katchemak Bay Reserve, AK",59.441,-151.721
+seto3,SATURN Estuary Station #03,46.2,-123.941
+sfxc1,"Rush Ranch, San Francisco Bay Reserve, CA",38.2,-122.026
+sgnt2,"8772985 - Sargent, TX",28.771,-95.617
+sgnw3,"Sheboygan, WI",43.749,-87.693
+sgof1,"Tyndall AFB Tower C (N4), FL",29.408,-84.858
+sgrn4,"Sea Girt, NJ",40.12,-74.03
+sgxa2,ST GEORGE MXAK,56.599,-169.542
+shbl1,"8761305 - Shell Beach, LA",29.868,-89.673
+shpf1,"SHP - Shell Point, FL",30.058,-84.291
+shxa2,"Sitka Harbor, AK",57.055,-135.349
+sipf1,"Sebastian Inlet State Park North Jetty, FL",27.862,-80.445
+sipm6,"Ship Island Pass, MS / CSI13",30.267,-89.017
+sisa2,"Sisters Island, AK",58.177,-135.259
+sisw1,"Smith Island, WA",48.321,-122.831
+sixa2,"Ship Island, AK",55.599,-132.203
+sjlf1,St. John's Light,30.4,-81.4
+sjnp4,"9755371 - San Juan, La Puntilla, San Juan Bay, PR",18.459,-66.116
+sjom4,"St. Joseph, MI",42.098,-86.494
+sjsn4,"8537121 - Ship John Shoal, NJ",39.305,-75.377
+skcf1,"8726671 - Sparkman Channel Entrance, FL",27.921,-82.445
+skda2,Skagway Ore Dock,59.449,-135.331
+skmg1,U.S. Navy Tower M2R6 GA,31.534,-80.236
+skqn6,"Saw Kill, Hudson River Reserve, NY",42.017,-73.915
+skta2,"9452400 - Skagway, AK",59.45,-135.327
+skxa2,"Skagway MXAK, AK",59.448,-135.326
+slim2,"8577330 - Solomons Island, MD",38.321,-76.452
+slmn2,Lake Mohave - South,35.389,-114.621
+sloo3,"Elliot Creek - South Slough Reserve, OR",43.296,-124.311
+slpl1,"Salt Point, LA  / CSI14",29.517,-91.55
+slvm5,"Silver Bay, MN",47.278,-91.27
+slxa2,"Salmon Landing, AK",55.34,-131.644
+sm058,Woods Hole Test Camera,59.923,-39.528
+smbs1,"Springmaid pier, SC",33.655,-78.918
+smkf1,"Sombrero Key, FL",24.628,-81.109
+smoc1,"9410840 - Santa Monica, CA",34.008,-118.5
+snda2,"9459450 - Sand Point, AK",55.336,-160.502
+sndp5,"1619910 - Sand Island, Midway Islands",28.215,-177.361
+snsn7,"8659897 - Sunset Beach, NC",33.865,-78.507
+snto3,"Tom's Creek, South Slough Reserve, OR",43.279,-124.318
+soqo3,"Valino Island, South Slough Reserve, OR",43.317,-124.322
+sosn6,"Southern Open Sound, NY",40.998,-73.095
+spag1,U.S. Navy Tower R2 GA,31.375,-80.567
+spgf1,"Settlement Point, GBI, Bahamas",26.704,-78.995
+spll1,"South Timbalier Block 52, LA / CSI06",28.867,-90.483
+sptm4,"Sturgeon Point Light, MI",44.713,-83.273
+spxa2,"Ship Island, AK",55.599,-132.203
+sraw1,"SATURN River Station #08, Camas, WA",45.572,-122.379
+srbv3,"Salt River Bay, St. Croix, U.S. Virgin Islands",17.784,-64.762
+sref1,"Shark River, FL",25.352,-81.1
+srfw1,SATURN River Station #05,46.185,-123.188
+srlm4,"Spectacle Reef Light, MI",45.773,-84.137
+srst2,"Sabine Pass, TX",29.683,-94.033
+srxa2,"Statter Harbor MXAK, AK",58.383,-134.652
+ssbn7,Sunset Beach Nearshore Waves (SUN2WAVE),33.838,-78.484
+stdm4,"Stannard Rock, MI",47.184,-87.225
+stxa2,"Sitka AML, AK",57.116,-135.391
+supn6,"Superior Shoals, NY",44.467,-75.8
+svls1,"Savannah Light, GA",31.95,-80.68
+svnm4,"South Haven Light, South Haven, MI",42.401,-86.288
+svxa2,"Savoonga, AK",63.693,-170.492
+swla2,"9455090 - Seward, AK",60.12,-149.427
+swpm4,"9076070 - S.W. Pier, MI",46.501,-84.372
+swpv2,"8638610 - Sewells Point, VA",36.943,-76.329
+swxa2,"Seward Harbor, AK",60.116,-149.434
+sxhw3,"Saxon Harbor, WI",46.563,-90.437
+sxxa2,"Saxman Landing, AK",55.315,-131.596
+syww3,"Yacht Works Sister Bay, WI",45.202,-87.121
+taml1,"Tambour Bay, LA",29.188,-90.665
+tano3,"Tansy Point, OR",46.189,-123.919
+taqt2,"8775296 - USS Lexington, TX",27.815,-97.389
+tarf1,"TAS - Tarpon Springs, FL",28.156,-82.758
+tawm4,"Tawas Point, MI",44.254,-83.449
+tbim4,"Thunder Bay Island, MI",45.035,-83.194
+tbyf1,"Terrapin Bay, FL",25.155,-80.722
+tcbm2,"8573364 - Tolchester Beach, MD",39.213,-76.244
+tcmw1,"9446482 - Tacoma Met, WA",47.276,-122.418
+tcnw1,"9446484 - Tacoma, WA",47.267,-122.413
+tcsv2,"Taskinas Creek, Chesapeake Bay Reserve, VA",37.415,-76.714
+tcvf1,"Trout Cove, FL",25.213,-80.533
+tdpc1,"Trinidad Pier Trinidad, CA",41.055,-124.147
+tesl1,"8764044 - Tesoro Marine Terminal, Berwick, Atchafalaya River, LA",29.668,-91.237
+tfblk,"10.0 nm WNW on Blakknes, Iceland",65.698,-24.778
+tgxa2,"Togiak, Alaska",59.055,-160.334
+thin6,"Thousand I. Brdg., NY",44.3,-75.983
+thlo1,Toledo Light No. 2 OH,41.826,-83.194
+thrf1,"Thursday Point, FL",25.203,-80.372
+thro1,"9063085 - Toledo, OH",41.694,-83.473
+tibc1,"Tiburon Pier, San Francisco Bay, CA",37.892,-122.447
+tiqc1,"Oneonta Slough, Tijuana River Reserve, CA",32.568,-117.131
+tixc1,"Tidal Linkage, Tijuana River Reserve, CA",32.575,-117.127
+tkea2,"Tenakee Springs, AK",57.779,-135.219
+tkpn6,"Turkey Point Hudson River NERRS, NY (NOS 8518962)",42.014,-73.939
+tlbo3,"9437540 - Garibaldi, Tillamook Bay, OR",45.555,-123.919
+tlvt2,"8775285 - Tule Lake Visibility, TX",27.819,-97.454
+tnso3,"Tenasillahe Island USFW Dock, OR",46.238,-123.468
+tokw1,"9440910 - Toke Point, WA",46.707,-123.967
+tpaf1,"8726694 - TPA Cruise Terminal 2, Tampa, FL",27.933,-82.433
+tpbn4,"8538886 - Tacony-Palmyra Bridge, NJ",40.012,-75.043
+tpef1,"Tarpon Bay East, FL",25.41,-80.964
+tplm2,"Thomas Point, MD",38.899,-76.436
+tpxa2,"Tree Point, AK",54.802,-130.934
+trbl1,"Terrebonne Bay, LA",29.187,-90.608
+trdf1,"8721604 - Trident Pier, FL",28.416,-80.593
+trrf1,"Taylor River, FL",25.217,-80.65
+trtp1,TREC Tower,42.11,-80.154
+tshf1,"8726679  - East Bay Causeway, FL",27.929,-82.426
+ttiw1,"Tatoosh Island, WA",48.392,-124.735
+twco1,"Toledo Crib, OH",41.699,-83.259
+txpt2,"8770822 - Texas Point, Sabine Pass, TX",29.689,-93.842
+txvt2,"8775302 - TX State Aquarium Visibility, TX",27.813,-97.389
+tybg1,U.S. Navy Tower R8 GA,31.633,-79.925
+ulam6,"8741041 - Dock E. Port of Pascagoula, MS",30.348,-88.505
+ulra2,"9468333 - Unalakleet, Unalakleet River, AK",63.872,-160.784
+unla2,"9462620 - Unalaska, AK",53.88,-166.537
+upbc1,"9415118 - Union Pacific Rail Road Bridge, Martinez, CA",38.038,-122.121
+uqxa2,"Utqiagvik, AK",71.315,-156.722
+utvt2,"8775236 - UTMSI Visibility, TX",27.838,-97.052
+vakf1,"8723214 - Virginia Key, FL",25.731,-80.162
+vbba3,Lake Mead - Virgin Basin,36.132,-114.412
+vcaf1,"8723970 - Vaca Key, FL",24.711,-81.107
+vcat2,"8773259 - Port Lavaca, TX",28.64,-96.609
+vcva2,"9464212 - Village Cove, St. Paul Island, AK",57.125,-170.285
+vdxa2,"Valdez, AK",61.127,-146.344
+vdza2,"9454240 - Valdez, AK",61.125,-146.361
+venf1,"Venice, FL",27.072,-82.453
+verv4,"Veracruz Harbor, MX",19.204,-96.113
+vmsv2,VIMS Pier,37.246,-76.5
+vqsp4,"9752619 - Isabel Segunda, Vieques Island, PR",18.153,-65.444
+vrmo1,"Vermilion River at Lake Erie, OH",41.428,-82.364
+vtbt2,"8775222 - Viola Turning Basin, TX",27.841,-97.52
+wahv2,"8631044 - Wachapreague, VA",37.608,-75.686
+wakp8,1890000 - Wake Island,19.291,166.618
+waqm3,"Menauhant, Waquoit Bay Reserve, MA",41.552,-70.549
+wasd2,"8594900 - Washington, DC",38.873,-77.021
+wats1,"Lake Wateree, SC",34.335,-80.702
+wavm6,"8747766 - Waveland, MS",30.282,-89.367
+waxm3,"Carriage House, Waquoit Bay Reserve, MA",41.582,-70.525
+wbxa2,Womens Bay Cargo Pier,57.729,-152.516
+wbya1,"Weeks Bay, Mobile Bay, AL",30.417,-87.825
+wcrp1,"Walnut Creek Marina, PA",42.077,-80.24
+wcxa2,"Ward Cove, AK",55.402,-131.729
+wdel1,Shell West Delta 143,28.662,-89.551
+wdsv2,"8638614 - Willoughby Deguassing Station, VA",36.977,-76.315
+wdyo3,"Woody Island, OR",46.252,-123.534
+webm1,"Webhannett River Inlet, Wells Reserve, ME",43.32,-70.563
+welm1,"8419317 - Wells, ME",43.32,-70.563
+weqm1,"Skinner Mill, Wells Reserve, ME",43.345,-70.549
+wexm1,"Laudholm Farm, Wells Reserve, ME",43.337,-70.549
+wfpm4,"Whitefish Point, MI",46.76,-84.97
+wfxa2,Womens Bay Fuel Pier,57.726,-152.519
+wgxa2,Wrangell Harbor,56.467,-132.382
+whoi1,,0.18,165.04
+whoi2,Woods Hole Wave Test Station #2,41.339,-70.555
+whri2,"Waukegan Harbor, IL",42.361,-87.813
+wiwf1,"Willy Willy, FL",25.587,-81.044
+wixa2,"Whittier AMHS, AK",60.777,-148.682
+wkqa1,"Fish River, Weeks Bay Reserve, AL",30.417,-87.823
+wkxa1,"Safe Harbor Met Station, Weeks Bay Reserve, AL",30.421,-87.828
+wlon7,"8658120 - Wilmington, NC",34.228,-77.954
+wlxa2,"Wales, AK",65.616,-168.094
+wndv2,"8636580 - Windmill Point, VA",37.615,-76.29
+wnem4,"9076027 - West Neebish Island, MI",46.285,-84.21
+wplf1,"Watson Place, FL",25.71,-81.249
+wpow1,"West Point, WA",47.662,-122.435
+wptw1,"9441102 - Westport, WA",46.904,-124.105
+wqqm1,"Head of Tide, Wells Reserve, ME",43.298,-70.587
+wrbf1,"Whipray Basin, FL",25.072,-80.735
+wrxa2,"Wainwright, AK",70.636,-160.034
+wslm4,"White Shoal Light, MI",45.842,-85.135
+wwef1,"Whitewater Bay-East, FL",25.232,-80.938
+wybs1,"Winyah Bay Bottom, North Inlet-Winyah Bay Reserve, SC",33.309,-79.289
+wycm6,"8747437 - Bay Waveland Yacht Club, MS",30.326,-89.326
+wyss1,"Winyah Bay Surface, North Inlet-Winyah Bay Reserve, SC",33.309,-79.289
+yabp4,"9754228 - Yabucoa Harbor, PR",18.055,-65.833
+yata2,"9453220 - Yakutat, Yakutat Bay, AK",59.548,-139.733
+ygnn6,"Niagara Coast Guard Station, NY",43.262,-79.064
+ykrv2,"8637611 - York River East Rear Range Light, VA",37.251,-76.342
+yktv2,"8637689 - Yorktown USCG Training Center, VA",37.227,-76.479
+yrsv2,"Taskinas Creek, Chesapeake Bay Reserve, VA",37.414,-76.712
+zbqn7,"Zeke's Basin, North Carolina",33.955,-77.935
