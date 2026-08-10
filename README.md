@@ -81,6 +81,4 @@ streamlit run src/dashboard/app.py
 - [NDBC Realtime](https://www.ndbc.noaa.gov/data/realtime2/) — last 45 days (.txt)
 - [Station Metadata](https://www.ndbc.noaa.gov/data/stations/station_table.txt) — lat/lon coordinates (pipe-delimited)
 
-## References
 
-- [Project Proposal](Project%20Proposal.pdf) — full project documentation (Thai)
