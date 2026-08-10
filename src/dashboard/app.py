@@ -132,11 +132,10 @@ def main():
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
         coloraxis_colorbar=dict(
-            title="Wave<br>Height (m)",
+            title=dict(text="Wave Height (m)", font=dict(color="#e0e0e0")),
             thickness=12,
             len=0.6,
             tickfont=dict(color="#e0e0e0"),
-            titlefont=dict(color="#e0e0e0"),
         ),
         legend=dict(font=dict(color="#e0e0e0")),
     )
@@ -158,7 +157,7 @@ def main():
         c1.metric("Wave Height", f"{latest.get('wave_height', 0):.2f} m")
         c2.metric("Wind Speed", f"{latest.get('wind_speed', 0):.1f} m/s")
         c3.metric("Pressure", f"{latest.get('pressure', 0):.0f} hPa")
-        c4.metric("Dew Point", f"{latest.get('dewpoint', 0):.1f} °C" if 'dewpoint' in latest else "Dew Point", "N/A")
+        c4.metric("Air Temp", f"{latest.get('air_temp', 0):.1f} °C" if 'air_temp' in latest else "Air Temp", "N/A")
 
         st.markdown("**24h Trend**")
         st.line_chart(df.tail(48).set_index("timestamp")[["wave_height", "wind_speed"]], height=180)
