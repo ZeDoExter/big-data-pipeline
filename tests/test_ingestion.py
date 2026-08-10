@@ -22,10 +22,13 @@ def test_download_success(tmp_path):
 
 def test_download_retry(tmp_path):
     """Should retry on failure."""
+    from requests import RequestException
+
     dest = tmp_path / "test.txt"
-    with patch("src.ingestion.download_ndbc.requests.get", side_effect=Exception("fail")):
+    with patch("src.ingestion.download_ndbc.requests.get",
+               side_effect=RequestException("fail")):
         result = download_file("http://example.com/data.txt", dest, retries=3)
-    
+
     assert result is False
 
 
