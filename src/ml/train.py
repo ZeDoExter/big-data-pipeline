@@ -1,5 +1,6 @@
 """ML training pipeline for wave height prediction."""
 import logging
+import pickle
 from pathlib import Path
 
 import numpy as np
@@ -121,6 +122,17 @@ def main():
         results[target] = {"model": model, "metrics": metrics}
     
     logger.info("training complete")
+    
+    # Save models
+    out_dir = Path("models")
+    out_dir.mkdir(exist_ok=True)
+    for target, res in results.items():
+        name = target.replace("target_", "").replace("_3h", "")
+        path = out_dir / f"rf_{name}.pkl"
+        with open(path, "wb") as f:
+            pickle.dump(res["model"], f)
+        logger.info("saved %s", path)
+    
     return results
 
 
