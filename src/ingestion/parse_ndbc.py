@@ -2,7 +2,6 @@ import gzip
 import logging
 import re
 from pathlib import Path
-from typing import Iterator
 
 import pandas as pd
 
@@ -57,14 +56,9 @@ def clean_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     for col in numeric_cols:
         df[col] = pd.to_numeric(df[col], errors="coerce")
     
-    # Replace MM with NaN (already handled by errors=coerce, but be explicit)
-    df = df.replace(MISSING, pd.NA)
-    
     # Build timestamp
     df["timestamp"] = pd.to_datetime(
         df[["year", "month", "day", "hour", "minute"]]
-        .rename(columns={"year": "year", "month": "month", "day": "day",
-                         "hour": "hour", "minute": "minute"})
     )
     
     # Keep only relevant columns

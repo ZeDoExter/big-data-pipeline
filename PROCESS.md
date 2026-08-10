@@ -104,10 +104,33 @@ tests/test_features.py::test_build_features PASSED
 
 ---
 
-## Next Stage: ML Training (Stage 5-7)
+## Next Stage: ML Training (Stage 5-7) — Done
 
-Problems anticipated:
-- Azure ML quota limits on Student account
-- Need to combine all station CSVs into single training dataset
-- station_id as categorical feature (one-hot or label encode)
-- Time-based split (not random) to avoid data leakage
+### What we built
+- `src/ml/train.py` — Random Forest regressor (baseline)
+- `src/ml/train_xgb.py` — XGBoost regressor (comparison)
+- Time-based split (70/15/15), station_id label encoded
+
+### Results
+
+| Model | Target | MAE | RMSE | R² |
+|-------|--------|-----|------|-----|
+| Random Forest | wave_height_3h | 0.071 | 0.114 | 0.974 |
+| Random Forest | wind_speed_3h | 0.625 | 0.885 | 0.897 |
+| XGBoost | wave_height_3h | 0.072 | 0.114 | — |
+| XGBoost | wind_speed_3h | 0.667 | 0.920 | — |
+
+### Key findings
+- RF ดีกว่า XGBoost เล็กน้อย → ใช่ RF เป็นหลัก
+- Wave height ทำนายได้แม่นยม R²=0.97
+- Feature importance: wave_height ตัวเอง 81%, wave_height_1h 9% = 90% คำนวณจากค่าปัจจุบัน
+- 9 stations รวม 9,485 rows, 32 cols
+
+### Problem: wave_height data สำคัญมาก
+- wave_height ตั้งเป็น feature #1 importance 81%
+- แปลว่า model ใช้ค่าปัจจุบันทำนาย 3h ข้างหน้าได้ดีเพราะ time series มี autocorrelation สูง
+- ถ้อยากให้ model จับ pattern ซับซ้อนขึ้น → ต้องเพิ่ม features ที่มี predictive power มากขึ้น
+
+---
+
+## Next Stage: Azure ML (Cloud Training)

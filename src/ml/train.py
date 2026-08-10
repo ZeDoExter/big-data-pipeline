@@ -6,7 +6,6 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
 logger = logging.getLogger(__name__)
@@ -41,7 +40,7 @@ def prepare_data(df: pd.DataFrame, target: str):
     # Select feature columns
     feature_cols = [c for c in df.columns if c not in EXCLUDE_COLS + ["station_id"]]
     
-    X = df[feature_cols].values
+    X = df[feature_cols + ["station_enc"]].values
     y = df[target].values
     
     return X, y, feature_cols, le
@@ -105,23 +104,12 @@ def main():
         logger.info("--- target: %s ---", target)
         
         # Prepare
-        feature_cols = [c for c in train.columns if c not in EXCLUDE_COLS + ["station_id"]]
-        
-        le = LabelEncoder()
-        train_enc = le.fit_transform(train["station_id"])
-        val_enc = le.transform(val["station_id"])
-        
-        X_train = train[feature_cols].copy()
-        X_train["station_enc"] = train_enc
-        y_train = train[target].values
-        
-        X_val = val[feature_cols].copy()
-        X_val["station_enc"] = val_enc
-        y_val = val[target].values
+        X_train, y_train, feature_cols, le = prepare_data(train, target)
+        X_val, y_val, _, _ = prepare_data(val, target)
         
         # Drop NaN rows
-        train_mask = ~np.isnan(X_train.values).any(axis=1) & ~np.isnan(y_train)
-        val_mask = ~np.isnan(X_val.values).any(axis=1) & ~np.isnan(y_val)
+        train_mask = ~np.isnan(X_train).any(axis=1) & ~np.isnan(y_train)
+        val_mask = ~np.isnan(X_val).any(axis=1) & ~np.isnan(y_val)
         
         X_train = X_train[train_mask]
         y_train = y_train[train_mask]
@@ -129,7 +117,7 @@ def main():
         y_val = y_val[val_mask]
         
         # Train
-        model, metrics = train_random_forest(X_train.values, y_train, X_val.values, y_val)
+        model, metrics = train_random_forest(X_train, y_train, X_val, y_val)
         results[target] = {"model": model, "metrics": metrics}
     
     logger.info("training complete")
