@@ -21,15 +21,20 @@ NDBC Data → Python Ingestion → HDFS (raw) → Spark (clean/compact) → Parq
 | Layer | Tool |
 |-------|------|
 | Data Source | NDBC (historical + realtime) |
-| Ingestion | Python |
+| Ingestion | Python (retry, logging, status tracking) |
 | Storage | HDFS (raw) + Parquet (processed) |
-| Processing | Apache Spark |
+| Data Processing | Apache Spark (cleaning, compaction, feature engineering) |
 | Data Warehouse | Apache Hive |
-| ML | Python + XGBoost / Random Forest |
-| Cloud ML | Azure Machine Learning |
-| Scheduling | Azure Functions |
-| Database | Azure Cosmos DB |
-| Frontend | Streamlit |
+| ML | Python + XGBoost / Random Forest regression |
+| Cloud ML | Azure ML (train, tune, register, deploy) |
+| Cloud Endpoint | Azure Managed Online Endpoint |
+| Scheduling | Azure Functions (timer trigger, batch every 30 min) |
+| Database | Azure Cosmos DB (prediction results) |
+| Blob Storage | Azure Blob Storage (training data, model artifacts) |
+| Monitoring | Azure Monitor (logs, metrics, alerts) |
+| Secrets | Azure Key Vault (API keys, credentials) |
+| CI/CD | GitHub Actions (auto deploy on push/merge) |
+| Frontend | Streamlit + Folium world map |
 
 ## Quick Start
 
@@ -72,6 +77,10 @@ streamlit run src/dashboard/app.py
 
 ## Data Sources
 
-- [NDBC Historical](https://www.ndbc.noaa.gov/historical_data.shtml) — multi-year archive
-- [NDBC Realtime](https://www.ndbc.noaa.gov/data/realtime2/) — last 45 days
-- [Station Metadata](https://www.ndbc.noaa.gov/data/stations/station_table.txt) — lat/lon coordinates
+- [NDBC Historical](https://www.ndbc.noaa.gov/historical_data.shtml) — multi-year archive (.txt.gz)
+- [NDBC Realtime](https://www.ndbc.noaa.gov/data/realtime2/) — last 45 days (.txt)
+- [Station Metadata](https://www.ndbc.noaa.gov/data/stations/station_table.txt) — lat/lon coordinates (pipe-delimited)
+
+## References
+
+- [Project Proposal](Project%20Proposal.pdf) — full project documentation (Thai)

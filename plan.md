@@ -11,7 +11,19 @@
 - Serving: Azure Function (timer-triggered batch scoring) → Cosmos DB
 - Frontend: Streamlit + Folium interactive map
 
-**Tech Stack:** Python, PySpark, Hive, Azure ML, Azure Functions, Cosmos DB, Streamlit
+**Tech Stack:** Python, PySpark, Hive, Azure ML, Azure Functions, Cosmos DB, Blob Storage, Azure Monitor, Key Vault, GitHub Actions, Streamlit
+
+**Security:** Secrets stored in Azure Key Vault, environment variables for local dev, minimal Azure RBAC permissions, logging enabled
+
+**Cost Optimization:** Free Tier/Student Credit only, ML endpoint scales to 0 after batch, process only selected stations, resources torn down when not in use
+
+**CI/CD:** GitHub Actions triggers on push/merge — tests, lint, deploy Azure Function + Streamlit dashboard automatically
+
+**Deployment Strategy:**
+- ML model: train → tune → register → deploy to Managed Online Endpoint
+- Batch: Azure Function timer (30 min) → wake endpoint → batch predict → Cosmos DB
+- Dashboard: separate deployment from ML, reads Cosmos DB directly
+- CI/CD: GitHub Actions per component change
 
 ---
 
