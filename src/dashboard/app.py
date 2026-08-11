@@ -35,6 +35,14 @@ def load_coords():
 
 
 @st.cache_data
+def load_predictions():
+    f = Path("data/predictions.csv")
+    if f.exists():
+        return pd.read_csv(f, parse_dates=["timestamp"])
+    return pd.DataFrame()
+
+
+@st.cache_data
 def load_station_data(station_id):
     f = _DATA_DIR / f"{station_id}_features.csv"
     if f.exists():
@@ -63,6 +71,7 @@ def main():
 
     models = load_models()
     coords = load_coords()
+    predictions = load_predictions()
     stations = coords[coords["station_id"].astype(str).isin(_SELECTED)].copy()
 
     if stations.empty:
@@ -81,6 +90,10 @@ def main():
         wind = latest.get("wind_speed")
         pressure = latest.get("pressure")
 
+        # Get prediction for this station
+        pred_row = predictions[predictions["station_id"].astype(str) == sid]
+        pred_wave = pred_row["predicted_wave_height_3h"].iloc[0] if not pred_row.empty else None
+
         rows.append({
             "station_id": sid,
             "name": f"{row['name'].title()} ({sid})",
@@ -90,7 +103,8 @@ def main():
             "wave_height": wave,
             "wind_speed": wind,
             "pressure": pressure,
-            "risk": wave if wave is not None else 0,
+            "predicted_wave_3h": pred_wave,
+            "risk": pred_wave if pred_wave is not None else (wave if wave is not None else 0),
         })
 
     pred_df = pd.DataFrame(rows)
@@ -108,7 +122,7 @@ def main():
         size="wave_height",
         size_max=18,
         hover_name="short_name",
-        hover_data=["wave_height", "wind_speed", "pressure"],
+        hover_data=["wave_height", "wind_speed", "pressure", "predicted_wave_3h"],
         projection="orthographic",
         title=None,
     )
@@ -154,10 +168,15 @@ def main():
         latest = df.iloc[-1]
 
         c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Wave Height", f"{latest.get('wave_height', 0):.2f} m")
+        c1.metric("Current Wave", f"{latest.get('wave_height', 0):.2f} m")
         c2.metric("Wind Speed", f"{latest.get('wind_speed', 0):.1f} m/s")
         c3.metric("Pressure", f"{latest.get('pressure', 0):.0f} hPa")
-        c4.metric("Air Temp", f"{latest.get('air_temp', 0):.1f} °C" if 'air_temp' in latest else "Air Temp", "N/A")
+        # Show predicted wave if available
+        pred_val = pred_df.loc[pred_df["station_id"] == selected, "predicted_wave_3h"].iloc[0] if selected in pred_df["station_id"].values else None
+        if pred_val is not None and not pd.isna(pred_val):
+            c4.metric("Predicted Wave (3h)", f"{pred_val:.2f} m", delta=f"{pred_val - latest.get('wave_height', 0):+.2f} m")
+        else:
+            c4.metric("Predicted Wave (3h)", "N/A")
 
         st.markdown("**24h Trend**")
         st.line_chart(df.tail(48).set_index("timestamp")[["wave_height", "wind_speed"]], height=180)
