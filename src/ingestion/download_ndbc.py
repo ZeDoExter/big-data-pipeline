@@ -57,18 +57,20 @@ def main():
     parser.add_argument("--stations", nargs="+", default=SELECTED_STATIONS)
     parser.add_argument("--years", default="2020-2024", help="Year range e.g. 2020-2024")
     parser.add_argument("--dest", default="data/ndbc")
+    parser.add_argument("--realtime-only", action="store_true", help="Only download realtime data")
     args = parser.parse_args()
 
     dest_dir = Path(args.dest)
-    year_start, year_end = map(int, args.years.split("-"))
 
     # Station list
     download_station_list(dest_dir)
 
     for station in args.stations:
         logger.info("station %s", station)
-        for year in range(year_start, year_end + 1):
-            download_historical(station, year, dest_dir)
+        if not args.realtime_only:
+            year_start, year_end = map(int, args.years.split("-"))
+            for year in range(year_start, year_end + 1):
+                download_historical(station, year, dest_dir)
         download_realtime(station, dest_dir)
 
     logger.info("done")
